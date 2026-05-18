@@ -8,7 +8,7 @@
 ** Written by VirtualBox 7.2.2 (r170484)
 -->
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.19-windows">
-  <Machine uuid="{e67c2e02-50d3-4aa8-8afc-5f7f92a34c97}" name=" Meta-Target" OSType="Linux26_64" snapshotFolder="Snapshots" lastStateChange="2026-05-18T13:10:05Z">
+  <Machine uuid="{e67c2e02-50d3-4aa8-8afc-5f7f92a34c97}" name=" Meta-Target" OSType="Linux26_64" snapshotFolder="Snapshots" lastStateChange="2026-05-18T13:46:43Z">
     <MediaRegistry>
       <HardDisks>
         <HardDisk uuid="{39445ebf-d4b3-4f5c-b1ef-e0f0713f7a2b}" location="C:/Hacking-Playground/03-Active-VMs/Meta-Target/FreshDisk/Metasploitable2-Linux/Metasploitable.vmdk" format="VMDK" type="Normal"/>
@@ -51,13 +51,7 @@
       <AudioAdapter codec="AD1980" useDefault="true" driver="WAS" enabled="true" enabledOut="true"/>
       <Clipboard/>
       <GuestProperties>
-        <GuestProperty name="/VirtualBox/GuestAdd/GuiOnFocus" value="0" timestamp="1779110711959719000" flags="TRANSIENT, RDONLYGUEST"/>
         <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="en_US" timestamp="1779110841321224800" flags="RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxRev" value="170484" timestamp="1779109805144159802" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVer" value="7.2.2" timestamp="1779109805144159800" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVerExt" value="7.2.2" timestamp="1779109805144159801" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/VMInfo/ResetCounter" value="1" timestamp="1779064932258318800" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/VMInfo/ResumeCounter" value="2" timestamp="1779110841377065700" flags="TRANSIENT, RDONLYGUEST"/>
       </GuestProperties>
       <StorageControllers>
         <StorageController name="IDE" type="PIIX4" PortCount="2" useHostIOCache="true" Bootable="true"/>
