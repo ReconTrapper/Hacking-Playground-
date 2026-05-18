@@ -6,17 +6,18 @@ A 100% free, legally sandboxed, and completely isolated multi-system penetration
 
 ## 🟢 New to Labs? Start Here! (Beginner's Quick Start)
 
-Building a complete hacking range can feel overwhelming, but you can get this entire lab up and running by following these **3 Simple Milestones**:
+Building a complete hacking range can feel overwhelming, but you can get this entire lab up and running by choosing your preferred entry milestone:
 
-* 🛠️ **Milestone 1: Prepare Your Laptop**
-  - Download [VirtualBox](https://virtualbox.org) and a free [Windows Server 2025 Evaluation ISO](https://microsoft.com). 
-  - Turn off **Memory Integrity** in your Windows Security settings so your laptop can give VirtualBox direct hardware access.
-* 🌲 **Milestone 2: Spin Up Your Target Domain**
-  - Create a new Windows Server VM, mount your ISO, and install the OS.
-  - Open PowerShell inside your new Server and run our automated script: [\./04-Source-Code/Provision-Lab-Domain.ps1\]. Your domain controller is now active!
-* 🩸 **Milestone 3: Populate and Attack**
-  - Download the [BadBlood Framework](https://github.com) inside your Server VM and run \.\Invoke-BadBlood.ps1\ to fill your domain with thousands of test users automatically.
-  - Link your **Kali Linux VM** to the same private network switch and start hacking!
+### ⚡ Option A: The Fast & Lightweight Start (Linux Targets)
+If you want to start hacking immediately without heavy setup or processing delay:
+* 🌐 **The Web Path (DC-1 Target)**: Boot up the small pre-built DC-1 appliance. Link it to your network at 10.0.2.5 and immediately start using your Kali Linux VM to scan and exploit its vulnerable **Drupal CMS core software**.
+* 🐧 **The Legacy Path (Kioptrix Target)**: Fire up the tiny legacy Kioptrix boot-to-root VM. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Practice basic banner grabbing, service scanning, and old-school Samba service exploitation.
+
+### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS)
+If you want to build a high-density corporate enterprise emulation matrix:
+* 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO.
+* 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: [\./04-Source-Code/Provision-Lab-Domain.ps1\] to instantly stand up the 	rapped.local root forest.
+* 🩸 **Step 3**: Download the [BadBlood Framework](https://github.com) inside the Server VM and execute \.\Invoke-BadBlood.ps1\ to automatically flood the directory database with thousands of test accounts, nested security groups, and hidden attack paths.
 
 ---
 
