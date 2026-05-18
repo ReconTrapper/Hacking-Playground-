@@ -1,0 +1,2657 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v27.4 (Yoast SEO v27.4) - https://yoast.com/product/yoast-seo-premium-wordpress/ -->
+	<title>GigeNET – Cloud Hosting, Dedicated Servers &amp; DDoS Protection</title>
+	<meta name="description" content="Explore the benefits of Cloud Hosting and Dedicated Servers with GigeNET, a pioneer in DDoS Protection and full-service hosting solutions." />
+	<link rel="canonical" href="https://www.gigenet.com/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home" />
+	<meta property="og:description" content="Explore the benefits of Cloud Hosting and Dedicated Servers with GigeNET, a pioneer in DDoS Protection and full-service hosting solutions." />
+	<meta property="og:url" content="https://www.gigenet.com/" />
+	<meta property="og:site_name" content="GigeNET" />
+	<meta property="article:publisher" content="https://www.facebook.com/GigeNETServers/" />
+	<meta property="article:modified_time" content="2025-08-21T10:10:49+00:00" />
+	<meta property="og:image" content="https://www.gigenet.com/wp-content/uploads/2022/04/Chicago-1.png" />
+	<meta property="og:image:width" content="722" />
+	<meta property="og:image:height" content="430" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@gigenet" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.gigenet.com\/","url":"https:\/\/www.gigenet.com\/","name":"GigeNET – Cloud Hosting, Dedicated Servers & DDoS Protection","isPartOf":{"@id":"https:\/\/www.gigenet.com\/#website"},"about":{"@id":"https:\/\/www.gigenet.com\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/www.gigenet.com\/#primaryimage"},"image":{"@id":"https:\/\/www.gigenet.com\/#primaryimage"},"thumbnailUrl":"https:\/\/www.gigenet.com\/wp-content\/uploads\/2022\/04\/Chicago-1.png","datePublished":"2022-04-06T07:45:24+00:00","dateModified":"2025-08-21T10:10:49+00:00","description":"Explore the benefits of Cloud Hosting and Dedicated Servers with GigeNET, a pioneer in DDoS Protection and full-service hosting solutions.","breadcrumb":{"@id":"https:\/\/www.gigenet.com\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.gigenet.com\/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.gigenet.com\/#primaryimage","url":"https:\/\/www.gigenet.com\/wp-content\/uploads\/2022\/04\/Chicago-1.png","contentUrl":"https:\/\/www.gigenet.com\/wp-content\/uploads\/2022\/04\/Chicago-1.png","width":722,"height":430,"caption":"Chicago city skyline overlooking Lake Michigan, illustrating enterprise-grade Cloud Hosting and Dedicated Servers with integrated DDoS Protection."},{"@type":"BreadcrumbList","@id":"https:\/\/www.gigenet.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/www.gigenet.com\/#website","url":"https:\/\/www.gigenet.com\/","name":"GigeNET.com Managed Dedicated Server Hosting and Colocation Services","description":"Premium Dedicated Server Host","publisher":{"@id":"https:\/\/www.gigenet.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.gigenet.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/www.gigenet.com\/#organization","name":"GigeNET Managed Servers and Colocation","url":"https:\/\/www.gigenet.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/www.gigenet.com\/#\/schema\/logo\/image\/","url":"https:\/\/www.gigenet.com\/wp-content\/uploads\/2022\/10\/gigenet-logo-color.svg","contentUrl":"https:\/\/www.gigenet.com\/wp-content\/uploads\/2022\/10\/gigenet-logo-color.svg","width":1567,"height":424,"caption":"GigeNET Managed Servers and Colocation"},"image":{"@id":"https:\/\/www.gigenet.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/GigeNETServers\/","https:\/\/x.com\/gigenet","https:\/\/www.linkedin.com\/company\/gigenet","https:\/\/www.youtube.com\/c\/Gigenet"]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="GigeNET &raquo; Feed" href="https://www.gigenet.com/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.gigenet.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gigenet.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.gigenet.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.gigenet.com%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id='font-awesome-svg-styles-default-inline-css'>
+.svg-inline--fa {
+  display: inline-block;
+  height: 1em;
+  overflow: visible;
+  vertical-align: -.125em;
+}
+/*# sourceURL=font-awesome-svg-styles-default-inline-css */
+</style>
+<link rel='stylesheet' id='font-awesome-svg-styles-css' href='https://www.gigenet.com/wp-content/uploads/font-awesome/v6.2.0/css/svg-with-js.css' media='all' />
+<style id='font-awesome-svg-styles-inline-css'>
+   .wp-block-font-awesome-icon svg::before,
+   .wp-rich-text-font-awesome-icon svg::before {content: unset;}
+/*# sourceURL=font-awesome-svg-styles-inline-css */
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-term-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-term-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.gigenet.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.5' media='all' />
+<link rel='stylesheet' id='sr7css-css' href='//www.gigenet.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.54' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/bootstrap.css?ver=4.0' media='all' />
+<link rel='stylesheet' id='engitech-awesome-font-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/font-awesome.min.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='engitech-flaticon-font-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/flaticon.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='slick-slider-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/slick.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='slick-theme-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/slick-theme.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='magnific-popup-css' href='https://www.gigenet.com/wp-content/themes/engitech/css/magnific-popup.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='chld_thm_cfg_parent-css' href='https://www.gigenet.com/wp-content/themes/engitech/style.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='engitech-style-css' href='https://www.gigenet.com/wp-content/themes/engitech-child/style.css?ver=1.4.1.1659339410' media='all' />
+<link rel='stylesheet' id='simple-likes-public-css-css' href='https://www.gigenet.com/wp-content/themes/engitech/inc/backend/css/simple-likes-public.css?ver=6.9.4' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css' href='https://use.fontawesome.com/releases/v6.2.0/css/all.css' media='all' integrity="sha384-SOnAn/m2fVJCwnbEYgD4xzrPtvsXdElhOVvR8ND1YjB5nhGNwwf7nBQlhfAwHAZC" crossorigin="anonymous" />
+<link rel='stylesheet' id='elementor-icons-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.48.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='elementor-post-5-css' href='https://www.gigenet.com/wp-content/uploads/elementor/css/post-5.css?ver=1776804703' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='widget-icon-list-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='elementor-post-6088-css' href='https://www.gigenet.com/wp-content/uploads/elementor/css/post-6088.css?ver=1776804732' media='all' />
+<link rel='stylesheet' id='eael-general-css' href='https://www.gigenet.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.6.2' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css' href='https://use.fontawesome.com/releases/v6.2.0/css/v4-shims.css' media='all' integrity="sha384-MAgG0MNwzSXBbmOw4KK9yjMrRaUNSCk3WoZPkzVC1rmhXzerY4gqk/BLNYtdOFCO" crossorigin="anonymous" />
+<link rel='stylesheet' id='elementor-gf-local-roboto-css' href='https://www.gigenet.com/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742424496' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-robotoslab-css' href='https://www.gigenet.com/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742424498' media='all' />
+<link rel='stylesheet' id='elementor-gf-local-inter-css' href='https://www.gigenet.com/wp-content/uploads/elementor/google-fonts/css/inter.css?ver=1742424503' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script src="//www.gigenet.com/wp-content/plugins/revslider/public/js/libs/tptools.js?ver=6.7.54" id="tp-tools-js" async data-wp-strategy="async" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="//www.gigenet.com/wp-content/plugins/revslider/public/js/sr7.js?ver=6.7.54" id="sr7-js" async data-wp-strategy="async" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="simple-likes-public-js-js-extra" type="24e484891237cdb31056c335-text/javascript">
+var simpleLikes = {"ajaxurl":"https://www.gigenet.com/wp-admin/admin-ajax.php","like":"Like","unlike":"Unlike"};
+//# sourceURL=simple-likes-public-js-js-extra
+</script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/inc/backend/js/simple-likes-public.js?ver=0.5" id="simple-likes-public-js-js" type="24e484891237cdb31056c335-text/javascript"></script>
+
+<!-- Google tag (gtag.js) snippet added by Site Kit -->
+<!-- Google Analytics snippet added by Site Kit -->
+<script src="https://www.googletagmanager.com/gtag/js?id=G-MY57T3MJPE" id="google_gtagjs-js" async type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="google_gtagjs-js-after" type="24e484891237cdb31056c335-text/javascript">
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag("set","linker",{"domains":["www.gigenet.com"]});
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "G-MY57T3MJPE", {"googlesitekit_post_type":"page"});
+ window._googlesitekit = window._googlesitekit || {}; window._googlesitekit.throttledEvents = []; window._googlesitekit.gtagEvent = (name, data) => { var key = JSON.stringify( { name, data } ); if ( !! window._googlesitekit.throttledEvents[ key ] ) { return; } window._googlesitekit.throttledEvents[ key ] = true; setTimeout( () => { delete window._googlesitekit.throttledEvents[ key ]; }, 5 ); gtag( "event", name, { ...data, event_source: "site-kit" } ); }; 
+//# sourceURL=google_gtagjs-js-after
+</script>
+<link rel="https://api.w.org/" href="https://www.gigenet.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.gigenet.com/wp-json/wp/v2/pages/6088" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.gigenet.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.9.4" />
+<link rel='shortlink' href='https://www.gigenet.com/' />
+<style> .ae_data .elementor-editor-element-setting {
+            display:none !important;
+            }
+            </style><meta name="generator" content="Site Kit by Google 1.177.0" /><!-- HFCM by 99 Robots - Snippet # 3: Google Ads Global Site Tag -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-1004398672" type="24e484891237cdb31056c335-text/javascript"></script>
+<script type="24e484891237cdb31056c335-text/javascript">
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-1004398672');
+</script>
+
+<!-- /end HFCM by 99 Robots -->
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.45-->
+			<script class="hsq-set-content-id" data-content-id="standard-page" type="24e484891237cdb31056c335-text/javascript">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<style>
+.veeam-calculator .group h3 {
+    font-weight: normal;
+    font-family: 'Inter';
+    font-size: 18px;
+    color: #566972;
+    margin-bottom: 24px;
+}
+.veeam-calculator {
+    margin-right: 126px;
+}
+.slider.slider-horizontal {
+    width: 100% !important;
+}
+.slider-track {
+    background-color: #D6E1E9 !important;
+    background-image: none;
+    box-shadow: none;
+}
+.slider-tick.round {
+    width: 10px;
+    height: 10px;
+    background: #fff;
+}
+.slider.slider-horizontal .slider-track {
+    border-radius: 50px;
+    overflow: hidden;
+}
+.slider.slider-horizontal .slider-tick-container {
+    top: 5px !important;
+}
+.slider.slider-horizontal .slider-handle {
+    width: 15px;
+    height: 15px;
+    top: 3px;
+    background: #fff;
+    border: 2px solid #081C34;
+}
+.slider.slider-horizontal .slider-tick, .slider.slider-horizontal .slider-handle {
+    margin-left: -5px;
+}
+.slider-tick-label-container {
+    margin-top: -30px !important;
+}
+.slider-selection.tick-slider-selection {
+    background-image: none;
+    box-shadow: none;
+    background-color: #019BE6;
+}
+.slider-tick.round.in-selection {
+    display: none;
+}
+.veeam-calculator .slider.slider-horizontal {
+    margin-top: 35px;
+}
+.slider-tick-label.label-in-selection.label-is-selection {
+    background-color: #081C34;
+    color: #fff;
+    display: inline-flex !important;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 4px;
+}
+.slider-tick-label.label-in-selection.label-is-selection::after {
+    content: '';
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    margin-left: 4px;
+    background: #081C34;
+    bottom: -3px;
+    z-index: -1;
+    transform: rotate(45deg);
+}
+.veeam-calculator .group:not(:last-child) {
+    margin-bottom: 52px;
+}
+.slider-tick-label {
+    font-size: 16px;
+    color: #5A6E79;
+    font-family: 'Inter';
+}
+.num-agents {
+    padding: 16px 24px;
+    background: #F9F9FA;
+    line-height: 1;
+	width: 100%;
+}
+.veeam-calculator {
+    font-family: 'Inter' !important;
+}
+
+h4.cost-total {
+    font-size: 24px;
+    color: #001B3B;
+    font-weight: 800;
+}
+.tooltip.tooltip-main.bs-tooltip-top {
+    opacity: 0;
+}
+div#wpcf7-f7102-p6197-o1 select {
+    padding: 10px 20px;
+    width: 100%;
+}
+    </style>
+<style id="engitech-inline-styles">h1, h2, h3, h4, h5, h6,
+            blockquote,
+            .font-second,
+            .topbar_languages select,
+            .octf-btn-cta .contact-header span.main-text, .octf-btn-cta .contact-header span a,
+            .post-box .post-cat a,
+            .post-box .entry-meta,
+            .post-box .link-box a,
+            .post-box .quote-box .quote-text,
+            .blog-post .share-post a,
+            .drop-cap,
+            .comment-form .logged-in-as,
+            .service-box .big-number,
+            .serv-box-2 .big-number,
+            .ot-accordions .acc-item .acc-toggle,
+            .support-box .number-box,
+            .ot-counter,
+            .ot-counter2 .s-num,
+            .ot-counter2 .b-num,
+            .circle-progress .inner-bar > span,
+            .ot-countdown li span,
+            .video-popup > span,
+            .dc-text .elementor-drop-cap,
+            div.elementor-widget-heading.elementor-widget-heading .elementor-heading-title,
+            .footer-menu ul li a,
+            .woocommerce ul.products li.product, .woocommerce-page ul.products li.product,
+            .woocommerce table.shop_table,
+            .woocommerce .quantity .qty,
+            .cart_totals h2,
+            #add_payment_method .cart-collaterals .cart_totals table td, 
+            #add_payment_method .cart-collaterals .cart_totals table th,
+            .woocommerce-cart .cart-collaterals .cart_totals table td, 
+            .woocommerce-cart .cart-collaterals .cart_totals table th,
+            .woocommerce-checkout .cart-collaterals .cart_totals table td,
+            .woocommerce-checkout .cart-collaterals .cart_totals table th,
+            .woocommerce ul.product_list_widget li a:not(.remove),
+            .woocommerce .widget_shopping_cart .cart_list .quantity,
+            .woocommerce .widget_shopping_cart .total strong,
+            .woocommerce.widget_shopping_cart .total strong,
+            .woocommerce .widget_shopping_cart .total .woocommerce-Price-amount,
+            .woocommerce.widget_shopping_cart .total .woocommerce-Price-amount,
+            .woocommerce .woocommerce-widget-layered-nav-list,
+            .woocommerce .widget_price_filter .price_slider_amount,
+            .woocommerce .widget_price_filter .price_slider_amount button.button,
+            .product_meta > span,
+            .woocommerce div.product .entry-summary p.price,
+            .woocommerce div.product .entry-summary span.price{font-family: Inter;}
+            </style>
+<!-- Google AdSense meta tags added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense meta tags added by Site Kit -->
+<meta name="generator" content="Elementor 4.0.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-auto">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<meta name="generator" content="Powered by Slider Revolution 6.7.54 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.gigenet.com/wp-content/uploads/2022/10/logo-1.png" sizes="32x32" />
+<link rel="icon" href="https://www.gigenet.com/wp-content/uploads/2022/10/logo-1.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.gigenet.com/wp-content/uploads/2022/10/logo-1.png" />
+<meta name="msapplication-TileImage" content="https://www.gigenet.com/wp-content/uploads/2022/10/logo-1.png" />
+<script type="24e484891237cdb31056c335-text/javascript">
+	window._tpt			??= {};
+	window.SR7			??= {};
+	_tpt.R				??= {};
+	_tpt.R.fonts		??= {};
+	_tpt.R.fonts.customFonts??= {};
+	SR7.devMode			=  false;
+	SR7.F 				??= {};
+	SR7.G				??= {};
+	SR7.LIB				??= {};
+	SR7.E				??= {};
+	SR7.E.gAddons		??= {};
+	SR7.E.php 			??= {};
+	SR7.E.nonce			= '65a67a572e';
+	SR7.E.ajaxurl		= 'https://www.gigenet.com/wp-admin/admin-ajax.php';
+	SR7.E.resturl		= 'https://www.gigenet.com/wp-json/';
+	SR7.E.slug_path		= 'revslider/revslider.php';
+	SR7.E.slug			= 'revslider';
+	SR7.E.plugin_url	= 'https://www.gigenet.com/wp-content/plugins/revslider/';
+	SR7.E.wp_plugin_url = 'https://www.gigenet.com/wp-content/plugins/';
+	SR7.E.revision		= '6.7.54';
+	SR7.E.fontBaseUrl	= '';
+	SR7.G.breakPoints 	= [1240,1024,778,480];
+	SR7.G.fSUVW 		= false;
+	SR7.E.modules 		= ['module','page','slide','layer','draw','animate','srtools','canvas','defaults','carousel','navigation','media','modifiers','migration'];
+	SR7.E.libs 			= ['WEBGL'];
+	SR7.E.css 			= ['csslp','cssbtns','cssfilters','cssnav','cssmedia'];
+	SR7.E.resources		= {};
+	SR7.E.ytnc			= false;
+	SR7.JSON			??= {};
+/*! Slider Revolution 7.0 - Page Processor */
+!function(){"use strict";window.SR7??={},window._tpt??={},SR7.version="Slider Revolution 6.7.40",_tpt.getMobileZoom=()=>_tpt.is_mobile?document.documentElement.clientWidth/window.innerWidth:1,_tpt.getWinDim=function(t){_tpt.screenHeightWithUrlBar??=window.innerHeight;let e=SR7.F?.modal?.visible&&SR7.M[SR7.F.module.getIdByAlias(SR7.F.modal.requested)];_tpt.scrollBar=window.innerWidth!==document.documentElement.clientWidth||e&&window.innerWidth!==e.c.module.clientWidth,_tpt.winW=_tpt.getMobileZoom()*window.innerWidth-(_tpt.scrollBar||"prepare"==t?_tpt.scrollBarW??_tpt.mesureScrollBar():0),_tpt.winH=_tpt.getMobileZoom()*window.innerHeight,_tpt.winWAll=document.documentElement.clientWidth},_tpt.getResponsiveLevel=function(t,e){return SR7.G.fSUVW?_tpt.closestGE(t,window.innerWidth):_tpt.closestGE(t,_tpt.winWAll)},_tpt.mesureScrollBar=function(){let t=document.createElement("div");return t.className="RSscrollbar-measure",t.style.width="100px",t.style.height="100px",t.style.overflow="scroll",t.style.position="absolute",t.style.top="-9999px",document.body.appendChild(t),_tpt.scrollBarW=t.offsetWidth-t.clientWidth,document.body.removeChild(t),_tpt.scrollBarW},_tpt.loadCSS=async function(t,e,s){return s?_tpt.R.fonts.required[e].status=1:(_tpt.R[e]??={},_tpt.R[e].status=1),new Promise((i,n)=>{if(_tpt.isStylesheetLoaded(t))s?_tpt.R.fonts.required[e].status=2:_tpt.R[e].status=2,i();else{const o=document.createElement("link");o.rel="stylesheet";let l="text",r="css";o["type"]=l+"/"+r,o.href=t,o.onload=()=>{s?_tpt.R.fonts.required[e].status=2:_tpt.R[e].status=2,i()},o.onerror=()=>{s?_tpt.R.fonts.required[e].status=3:_tpt.R[e].status=3,n(new Error(`Failed to load CSS: ${t}`))},document.head.appendChild(o)}})},_tpt.addContainer=function(t){const{tag:e="div",id:s,class:i,datas:n,textContent:o,iHTML:l}=t,r=document.createElement(e);if(s&&""!==s&&(r.id=s),i&&""!==i&&(r.className=i),n)for(const[t,e]of Object.entries(n))"style"==t?r.style.cssText=e:r.setAttribute(`data-${t}`,e);return o&&(r.textContent=o),l&&(r.innerHTML=l),r},_tpt.collector=function(){return{fragment:new DocumentFragment,add(t){var e=_tpt.addContainer(t);return this.fragment.appendChild(e),e},append(t){t.appendChild(this.fragment)}}},_tpt.isStylesheetLoaded=function(t){let e=t.split("?")[0];return Array.from(document.querySelectorAll('link[rel="stylesheet"], link[rel="preload"]')).some(t=>t.href.split("?")[0]===e)},_tpt.preloader={requests:new Map,preloaderTemplates:new Map,show:function(t,e){if(!e||!t)return;const{type:s,color:i}=e;if(s<0||"off"==s)return;const n=`preloader_${s}`;let o=this.preloaderTemplates.get(n);o||(o=this.build(s,i),this.preloaderTemplates.set(n,o)),this.requests.has(t)||this.requests.set(t,{count:0});const l=this.requests.get(t);clearTimeout(l.timer),l.count++,1===l.count&&(l.timer=setTimeout(()=>{l.preloaderClone=o.cloneNode(!0),l.anim&&l.anim.kill(),void 0!==_tpt.gsap?l.anim=_tpt.gsap.fromTo(l.preloaderClone,1,{opacity:0},{opacity:1}):l.preloaderClone.classList.add("sr7-fade-in"),t.appendChild(l.preloaderClone)},150))},hide:function(t){if(!this.requests.has(t))return;const e=this.requests.get(t);e.count--,e.count<0&&(e.count=0),e.anim&&e.anim.kill(),0===e.count&&(clearTimeout(e.timer),e.preloaderClone&&(e.preloaderClone.classList.remove("sr7-fade-in"),e.anim=_tpt.gsap.to(e.preloaderClone,.3,{opacity:0,onComplete:function(){e.preloaderClone.remove()}})))},state:function(t){if(!this.requests.has(t))return!1;return this.requests.get(t).count>0},build:(t,e="#ffffff",s="")=>{if(t<0||"off"===t)return null;const i=parseInt(t);if(t="prlt"+i,isNaN(i))return null;if(_tpt.loadCSS(SR7.E.plugin_url+"public/css/preloaders/t"+i+".css","preloader_"+t),isNaN(i)||i<6){const n=`background-color:${e}`,o=1===i||2==i?n:"",l=3===i||4==i?n:"",r=_tpt.collector();["dot1","dot2","bounce1","bounce2","bounce3"].forEach(t=>r.add({tag:"div",class:t,datas:{style:l}}));const d=_tpt.addContainer({tag:"sr7-prl",class:`${t} ${s}`,datas:{style:o}});return r.append(d),d}{let n={};if(7===i){let t;e.startsWith("#")?(t=e.replace("#",""),t=`rgba(${parseInt(t.substring(0,2),16)}, ${parseInt(t.substring(2,4),16)}, ${parseInt(t.substring(4,6),16)}, `):e.startsWith("rgb")&&(t=e.slice(e.indexOf("(")+1,e.lastIndexOf(")")).split(",").map(t=>t.trim()),t=`rgba(${t[0]}, ${t[1]}, ${t[2]}, `),t&&(n.style=`border-top-color: ${t}0.65); border-bottom-color: ${t}0.15); border-left-color: ${t}0.65); border-right-color: ${t}0.15)`)}else 12===i&&(n.style=`background:${e}`);const o=[10,0,4,2,5,9,0,4,4,2][i-6],l=_tpt.collector(),r=l.add({tag:"div",class:"sr7-prl-inner",datas:n});Array.from({length:o}).forEach(()=>r.appendChild(l.add({tag:"span",datas:{style:`background:${e}`}})));const d=_tpt.addContainer({tag:"sr7-prl",class:`${t} ${s}`});return l.append(d),d}}},SR7.preLoader={show:(t,e)=>{"off"!==(SR7.M[t]?.settings?.pLoader?.type??"off")&&_tpt.preloader.show(e||SR7.M[t].c.module,SR7.M[t]?.settings?.pLoader??{color:"#fff",type:10})},hide:(t,e)=>{"off"!==(SR7.M[t]?.settings?.pLoader?.type??"off")&&_tpt.preloader.hide(e||SR7.M[t].c.module)},state:(t,e)=>_tpt.preloader.state(e||SR7.M[t].c.module)},_tpt.prepareModuleHeight=function(t){window.SR7.M??={},window.SR7.M[t.id]??={},"ignore"==t.googleFont&&(SR7.E.ignoreGoogleFont=!0);let e=window.SR7.M[t.id];if(null==_tpt.scrollBarW&&_tpt.mesureScrollBar(),e.c??={},e.states??={},e.settings??={},e.settings.size??={},t.fixed&&(e.settings.fixed=!0),e.c.module=document.querySelector("sr7-module#"+t.id),e.c.adjuster=e.c.module.getElementsByTagName("sr7-adjuster")[0],e.c.content=e.c.module.getElementsByTagName("sr7-content")[0],"carousel"==t.type&&(e.c.carousel=e.c.content.getElementsByTagName("sr7-carousel")[0]),null==e.c.module||null==e.c.module)return;t.plType&&t.plColor&&(e.settings.pLoader={type:t.plType,color:t.plColor}),void 0===t.plType||"off"===t.plType||SR7.preLoader.state(t.id)&&SR7.preLoader.state(t.id,e.c.module)||SR7.preLoader.show(t.id,e.c.module),_tpt.winW||_tpt.getWinDim("prepare"),_tpt.getWinDim();let s=""+e.c.module.dataset?.modal;"modal"==s||"true"==s||"undefined"!==s&&"false"!==s||(e.settings.size.fullWidth=t.size.fullWidth,e.LEV??=_tpt.getResponsiveLevel(window.SR7.G.breakPoints,t.id),t.vpt=_tpt.fillArray(t.vpt,5),e.settings.vPort=t.vpt[e.LEV],void 0!==t.el&&"720"==t.el[4]&&t.gh[4]!==t.el[4]&&"960"==t.el[3]&&t.gh[3]!==t.el[3]&&"768"==t.el[2]&&t.gh[2]!==t.el[2]&&delete t.el,e.settings.size.height=null==t.el||null==t.el[e.LEV]||0==t.el[e.LEV]||"auto"==t.el[e.LEV]?_tpt.fillArray(t.gh,5,-1):_tpt.fillArray(t.el,5,-1),e.settings.size.width=_tpt.fillArray(t.gw,5,-1),e.settings.size.minHeight=_tpt.fillArray(t.mh??[0],5,-1),e.cacheSize={fullWidth:e.settings.size?.fullWidth,fullHeight:e.settings.size?.fullHeight},void 0!==t.off&&(t.off?.t&&(e.settings.size.m??={})&&(e.settings.size.m.t=t.off.t),t.off?.b&&(e.settings.size.m??={})&&(e.settings.size.m.b=t.off.b),t.off?.l&&(e.settings.size.p??={})&&(e.settings.size.p.l=t.off.l),t.off?.r&&(e.settings.size.p??={})&&(e.settings.size.p.r=t.off.r),e.offsetPrepared=!0),_tpt.updatePMHeight(t.id,t,!0))},_tpt.updatePMHeight=(t,e,s)=>{let i=SR7.M[t];var n=i.settings.size.fullWidth?_tpt.winW:i.c.module.parentNode.offsetWidth;n=0===n||isNaN(n)?_tpt.winW:n;let o=i.settings.size.width[i.LEV]||i.settings.size.width[i.LEV++]||i.settings.size.width[i.LEV--]||n,l=i.settings.size.height[i.LEV]||i.settings.size.height[i.LEV++]||i.settings.size.height[i.LEV--]||0,r=i.settings.size.minHeight[i.LEV]||i.settings.size.minHeight[i.LEV++]||i.settings.size.minHeight[i.LEV--]||0;if(l="auto"==l?0:l,l=parseInt(l),"carousel"!==e.type&&(n-=parseInt(e.onw??0)||0),i.MP=!i.settings.size.fullWidth&&n<o||_tpt.winW<o?Math.min(1,n/o):1,e.size.fullScreen||e.size.fullHeight){let t=parseInt(e.fho)||0,s=(""+e.fho).indexOf("%")>-1;e.newh=_tpt.winH-(s?_tpt.winH*t/100:t)}else e.newh=i.MP*Math.max(l,r);if(e.newh+=(parseInt(e.onh??0)||0)+(parseInt(e.carousel?.pt)||0)+(parseInt(e.carousel?.pb)||0),void 0!==e.slideduration&&(e.newh=Math.max(e.newh,parseInt(e.slideduration)/3)),e.shdw&&_tpt.buildShadow(e.id,e),i.c.adjuster.style.height=e.newh+"px",i.c.module.style.height=e.newh+"px",i.c.content.style.height=e.newh+"px",i.states.heightPrepared=!0,i.dims??={},i.dims.moduleRect=i.c.module.getBoundingClientRect(),i.c.content.style.left="-"+i.dims.moduleRect.left+"px",!i.settings.size.fullWidth)return s&&requestAnimationFrame(()=>{n!==i.c.module.parentNode.offsetWidth&&_tpt.updatePMHeight(e.id,e)}),void _tpt.bgStyle(e.id,e,window.innerWidth==_tpt.winW,!0);_tpt.bgStyle(e.id,e,window.innerWidth==_tpt.winW,!0),requestAnimationFrame(function(){s&&requestAnimationFrame(()=>{n!==i.c.module.parentNode.offsetWidth&&_tpt.updatePMHeight(e.id,e)})}),i.earlyResizerFunction||(i.earlyResizerFunction=function(){requestAnimationFrame(function(){_tpt.getWinDim(),_tpt.moduleDefaults(e.id,e),_tpt.updateSlideBg(t,!0)})},window.addEventListener("resize",i.earlyResizerFunction))},_tpt.buildShadow=function(t,e){let s=SR7.M[t];null==s.c.shadow&&(s.c.shadow=document.createElement("sr7-module-shadow"),s.c.shadow.classList.add("sr7-shdw-"+e.shdw),s.c.content.appendChild(s.c.shadow))},_tpt.bgStyle=async(t,e,s,i,n)=>{const o=SR7.M[t];if((e=e??o.settings).fixed&&!o.c.module.classList.contains("sr7-top-fixed")&&(o.c.module.classList.add("sr7-top-fixed"),o.c.module.style.position="fixed",o.c.module.style.width="100%",o.c.module.style.top="0px",o.c.module.style.left="0px",o.c.module.style.pointerEvents="none",o.c.module.style.zIndex=5e3,o.c.content.style.pointerEvents="none"),null==o.c.bgcanvas){let t=document.createElement("sr7-module-bg"),l=!1;if("string"==typeof e?.bg?.color&&e?.bg?.color.includes("{"))if(_tpt.gradient&&_tpt.gsap)e.bg.color=_tpt.gradient.convert(e.bg.color);else try{let t=JSON.parse(e.bg.color);(t?.orig||t?.string)&&(e.bg.color=JSON.parse(e.bg.color))}catch(t){return}let r="string"==typeof e?.bg?.color?e?.bg?.color||"transparent":e?.bg?.color?.string??e?.bg?.color?.orig??e?.bg?.color?.color??"transparent";if(t.style["background"+(String(r).includes("grad")?"":"Color")]=r,("transparent"!==r||n)&&(l=!0),o.offsetPrepared&&(t.style.visibility="hidden"),e?.bg?.image?.src&&(t.style.backgroundImage=`url(${e?.bg?.image.src})`,t.style.backgroundSize=""==(e.bg.image?.size??"")?"cover":e.bg.image.size,t.style.backgroundPosition=e.bg.image.position,t.style.backgroundRepeat=""==e.bg.image.repeat||null==e.bg.image.repeat?"no-repeat":e.bg.image.repeat,l=!0),!l)return;o.c.bgcanvas=t,e.size.fullWidth?t.style.width=_tpt.winW-(s&&_tpt.winH<document.body.offsetHeight?_tpt.scrollBarW:0)+"px":i&&(t.style.width=o.c.module.offsetWidth+"px"),e.sbt?.use?o.c.content.appendChild(o.c.bgcanvas):o.c.module.appendChild(o.c.bgcanvas)}o.c.bgcanvas.style.height=void 0!==e.newh?e.newh+"px":("carousel"==e.type?o.dims.module.h:o.dims.content.h)+"px",o.c.bgcanvas.style.left=!s&&e.sbt?.use||o.c.bgcanvas.closest("SR7-CONTENT")?"0px":"-"+(o?.dims?.moduleRect?.left??0)+"px"},_tpt.updateSlideBg=function(t,e){const s=SR7.M[t];let i=s.settings;s?.c?.bgcanvas&&(i.size.fullWidth?s.c.bgcanvas.style.width=_tpt.winW-(e&&_tpt.winH<document.body.offsetHeight?_tpt.scrollBarW:0)+"px":preparing&&(s.c.bgcanvas.style.width=s.c.module.offsetWidth+"px"))},_tpt.moduleDefaults=(t,e)=>{let s=SR7.M[t];null!=s&&null!=s.c&&null!=s.c.module&&(s.dims??={},s.dims.moduleRect=s.c.module.getBoundingClientRect(),s.c.content.style.left="-"+s.dims.moduleRect.left+"px",s.c.content.style.width=_tpt.winW-_tpt.scrollBarW+"px","carousel"==e.type&&(s.c.module.style.overflow="visible"),_tpt.bgStyle(t,e,window.innerWidth==_tpt.winW))},_tpt.getOffset=t=>{var e=t.getBoundingClientRect(),s=window.pageXOffset||document.documentElement.scrollLeft,i=window.pageYOffset||document.documentElement.scrollTop;return{top:e.top+i,left:e.left+s}},_tpt.fillArray=function(t,e){let s,i;t=Array.isArray(t)?t:[t];let n=Array(e),o=t.length;for(i=0;i<t.length;i++)n[i+(e-o)]=t[i],null==s&&"#"!==t[i]&&(s=t[i]);for(let t=0;t<e;t++)void 0!==n[t]&&"#"!=n[t]||(n[t]=s),s=n[t];return n},_tpt.closestGE=function(t,e){let s=Number.MAX_VALUE,i=-1;for(let n=0;n<t.length;n++)t[n]-1>=e&&t[n]-1-e<s&&(s=t[n]-1-e,i=n);return++i}}();</script>
+		<style id="wp-custom-css">
+			.header-clone {
+    height: 100px !important;
+  }
+  
+  .wpcf7 select {
+    padding: 13px 20px;
+    width: 100%;
+    display: block;
+  }
+  
+  .elementor-widget-wrap > .elementor-element.btn-inline {
+    display: inline-block;
+    width: auto;
+  }
+  .elementor-3872
+    .elementor-element.elementor-element-4cff60df
+    .elementor-icon-list-item
+    span,
+  .elementor-3872
+    .elementor-element.elementor-element-5e3bed1f
+    .elementor-icon-list-item
+    span {
+    line-height: 16px;
+  }
+  
+  .page-id-3872 #back-to-top {
+    color: #656ae5;
+  }
+  .page-id-4858 #back-to-top {
+    color: #53e79c;
+  }
+  .page-id-4899 #back-to-top {
+    color: #35d3c9;
+  }
+  
+  .main-navigation ul li li a {
+    text-transform: unset !important;
+  }
+  
+  .member-form.comment-respond {
+    padding: 0;
+    border: none;
+  }
+  
+  .member-form.comment-respond p.col-md-6 {
+    padding: 0 6px;
+  }
+  
+  .member-form.comment-respond .row {
+    margin-left: -6px;
+    margin-right: -6px;
+  }
+  
+  .member-form.comment-respond > p:last-child {
+    display: flex;
+    justify-content: end;
+  }
+  
+  .member-form.comment-respond button.octf-btn.octf-btn-primary {
+    font-size: 16px;
+    padding: 16px 40px;
+    line-height: 20px;
+    background-color: #5cc7ff;
+  }
+  
+  .main-navigation ul > li.menu-item-has-children > a:after,
+  .main-navigation ul > li.is-mega-menu > a:after {
+    font-family: 'Font Awesome 6 Free';
+    content: '\f107';
+    font-weight: unset;
+    transform: unset;
+    font-size: 15px;
+    right: -5px;
+    top: 46%;
+  }
+  
+  header a.octf-btn.octf-btn-primary::after {
+    font-family: 'Font Awesome 6 Free';
+    content: '\f107';
+    margin-left: 24px;
+  }
+  
+  footer#site-footer p {
+    margin-bottom: 0;
+  }
+  
+  .page-id-6183 .member-form.comment-respond > p:last-child {
+    display: block;
+  }
+  
+  .page-id-6183
+    .member-form.comment-respond
+    > p:last-child
+    textarea.wpcf7-form-control.wpcf7-textarea {
+    margin-bottom: 32px;
+  }
+  
+  .page-id-6183
+    .member-form.comment-respond
+    > p:last-child
+    button.octf-btn.octf-btn-primary {
+    margin-left: auto;
+    display: block;
+  }
+  
+  div#wpcf7-f7102-p6197-o1 p {
+    overflow: hidden;
+  }
+  
+  div#wpcf7-f7102-p6197-o1 span.wpcf7-form-control-wrap,
+  div#wpcf7-f7102-p6197-o1 span.wpcf7-form-control-wrap input {
+    display: block;
+    width: 100%;
+  }
+  
+  .eael-post-grid.eael-post-appender.eael-post-appender-21bfd01.eael-post-grid-style-default {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+  }
+  
+  article.eael-grid-post.eael-post-grid-column .eael-grid-post-holder {
+    height: 100%;
+  }
+  
+  .eael-entry-wrapper,
+  .eael-grid-post-holder-inner,
+  .eael-entry-content,
+  .eael-grid-post-excerpt {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 2;
+  }
+  
+  .eael-grid-post-excerpt {
+    justify-content: space-between;
+  }
+  
+  .last-post
+    article.eael-grid-post.eael-post-grid-column
+    .eael-grid-post-holder-inner {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .last-post .eael-entry-media,
+  .last-post .eael-entry-wrapper {
+    flex: 1;
+  }
+  
+  .last-post .eael-entry-wrapper {
+    padding: 75px 40px;
+  }
+  
+  .last-post h2.eael-entry-title a {
+    color: #fff !important;
+    font-size: 32px !important;
+  }
+  
+  .last-post .eael-entry-meta {
+    margin-top: 12px !important;
+    color: #fff;
+  }
+  
+  .last-post .eael-entry-meta span,
+  .last-post .eael-entry-meta a {
+    font-size: 16px !important;
+    color: #fff;
+    font-weight: 300 !important;
+  }
+  
+  .last-post .eael-entry-thumbnail {
+    height: 100%;
+  }
+  
+  .eael-entry-meta {
+    flex-direction: row-reverse !important;
+    display: flex !important;
+    justify-content: flex-end !important;
+  }
+  span.eael-posted-on::before {
+    display: none;
+  }
+  
+  span.eael-posted-on {
+    padding: 0 !important;
+  }
+  
+  span.eael-posted-on::after {
+    content: '\•';
+    margin: 0 10px;
+  }
+  
+  span.eael-posted-by::before {
+    content: '\ By ';
+  }
+  
+  span.eael-posted-by a {
+    color: #5cc7ff !important;
+    font-weight: 500 !important;
+  }
+  
+  a.eael-post-elements-readmore-btn:after {
+    content: '\f105';
+    font-family: 'FontAwesome';
+    background: #5cc7ff;
+    color: #fff;
+    margin-left: 10px;
+    border-radius: 50%;
+    padding: 3px 6px;
+  }
+  
+  .recent-posts .eael-entry-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .recent-posts .eael-entry-meta {
+    order: -1;
+  }
+  
+  /* Blog Post */
+  .gigenetpost-hero {
+    width: 100vw;
+    margin-left: calc((-100vw + 100%) / 2) !important;
+    padding: 126px 15px;
+    background-image: url(/wp-content/uploads/2022/04/Main-blog-page-bg-1.png);
+    background-size: cover;
+    color: #fff;
+    margin-bottom: 120px;
+  }
+  
+  h3.author-name a {
+    color: #1b1d21;
+  }
+  
+  .single.single-post .entry-content {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .gigenetpost-hero > * {
+    max-width: 1200px;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 15px;
+    margin-right: 15px;
+  }
+  
+  p.gigenet-post-author {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    margin-bottom: 16px;
+  }
+  
+  .gigenetpost-hero h1 {
+    color: #fff;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 56px;
+    margin-bottom: 16px;
+  }
+  
+  .blog-post > .inner-post .entry-summary,
+  .blog-post > .inner-post .entry-summary p,
+  .blog-post > .inner-post .entry-summary,
+  .blog-post > .inner-post .entry-summary span {
+    font-size: 16px !important;
+    font-weight: 300 !important;
+    color: #2c3b43;
+  }
+  
+  .blog-post > .inner-post .entry-summary {
+    padding-bottom: 120px;
+  }
+  
+  body.single.single-post .entry-footer.clearfix {
+    display: none;
+  }
+  
+  .gigenet-share-box {
+    padding: 180px 0px 180px 0px;
+    background-image: url(/wp-content/uploads/2022/04/Separation-bg-3.png);
+    background-size: cover;
+  }
+  
+  .gigenet-share-box h3 {
+    color: #fff;
+    text-align: center;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 48px;
+    padding: 0px 0px 40px 0px;
+    margin: 0;
+  }
+  
+  .single-post .share-post {
+    margin: 0;
+  }
+  
+  .single-post .share-post > a {
+    background-color: #5dc7ff !important;
+    width: 56px;
+    height: 56px;
+    border-radius: 50%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: #052c79;
+  }
+  
+  .gigenet-author-box {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin-top: 40px;
+  }
+  
+  h2.about-author {
+    margin: 0;
+    margin-top: 120px;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 48px;
+  }
+  
+  h3.author-name {
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 30px;
+    margin-bottom: 16px;
+  }
+  
+  p.author-desc {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+  }
+  
+  .single-post .post-nav.clearfix {
+    display: none;
+  }
+  
+  h2.rec_art {
+    padding: 120px 0px 40px 0px;
+    margin: 0;
+  }
+  
+  /* Blog Post Ends Here */
+  
+  @media (max-width: 600px) {
+    .member-form.comment-respond button.octf-btn.octf-btn-primary {
+      width: 100%;
+    }
+    .last-post
+      article.eael-grid-post.eael-post-grid-column
+      .eael-grid-post-holder-inner {
+      display: flex;
+      flex-direction: column;
+    }
+  
+    .last-post .eael-entry-wrapper {
+      padding: 40px 0px;
+    }
+    .last-post h2.eael-entry-title a {
+      font-size: 24px !important;
+    }
+    .last-post .eael-entry-meta {
+      margin-top: 16px;
+      margin-bottom: 22px;
+      font-size: 14px !important;
+    }
+  
+    .last-post .eael-entry-meta span,
+    .last-post .eael-entry-meta a {
+      font-size: 14px !important;
+    }
+  }
+  @media (min-width: 999px) {
+    li.products-mega > ul.sub-menu {
+      display: flex;
+      min-width: unset !important;
+      padding: 24px 32px !important;
+      width: 1024px;
+      left: -310% !important;
+      right: auto !important;
+      flex-wrap: wrap;
+    }
+  
+    li.products-mega > ul.sub-menu ul.sub-menu {
+      display: block !important;
+      position: relative;
+      left: 0;
+      top: 0;
+      box-shadow: unset;
+      padding: 0;
+      min-width: unset;
+      transform: unset;
+    }
+  
+    li.products-mega:hover > ul.sub-menu ul.sub-menu {
+      opacity: 1;
+      visibility: visible;
+    }
+  
+    li.products-mega > ul.sub-menu ul.sub-menu li,
+    li.resources-mega ul.sub-menu li {
+      padding: 0;
+    }
+    li.products-mega > ul.sub-menu > li {
+      padding: 0;
+      flex: 1;
+    }
+  
+    li.products-mega li a,
+    li.resources-mega li a {
+      padding: 12px 16px !important;
+    }
+  
+    li.products-mega > ul.sub-menu > li > a::after {
+      display: none;
+    }
+  
+    li.products-mega > ul.sub-menu > li > a {
+      font-weight: 600 !important;
+      color: #001b3b !important;
+      font-size: 13px !important;
+      margin-bottom: 0px;
+    }
+  
+    li.products-mega > ul.sub-menu ul.sub-menu a:hover {
+      background-color: #edf0f4;
+      color: #001b3b !important;
+      font-weight: 300 !important;
+    }
+  
+    li.products-mega > ul.sub-menu > li > a {
+      display: flex;
+      align-items: center;
+    }
+  
+    li.mega-subtitle > a,
+    li.products-mega > ul.sub-menu > li.mega-subtitle > a {
+      margin: 0 !important;
+      color: #5cc7ff !important;
+      text-transform: uppercase !important;
+      font-weight: 600 !important;
+      font-size: 13px !important;
+      margin-bottom: 12px;
+    }
+  
+    li.mega-subtitle {
+      flex-basis: 100% !important;
+      width: 100% !important;
+    }
+  
+    li.resources-mega ul.sub-menu {
+      min-width: 300px !important;
+      padding: 24px 32px !important;
+    }
+  
+    li.resources-mega ul.sub-menu li a {
+      font-weight: 600 !important;
+      text-transform: uppercase !important;
+    }
+  
+    li.resources-mega ul.sub-menu li a .desc {
+      text-transform: none !important;
+      font-weight: 300;
+      margin-top: 4px;
+      color: #2c3b43 !important;
+    }
+  
+    li.resources-mega li:not(.mega-subtitle) a:hover {
+      background-color: #edf0f4;
+      color: #001b3b !important;
+      font-weight: 300 !important;
+    }
+  
+    li.resources-mega li:not(.mega-subtitle) a:hover .desc {
+      font-weight: 300 !important;
+    }
+  
+    .login-btn > a {
+      border: 1px solid;
+      padding: 15px 24px !important;
+      line-height: 1 !important;
+    }
+  
+    .login-btn > a::after,
+    li.login-btn > a::after {
+      position: relative !important;
+      top: 0;
+      margin-left: 24px;
+    }
+  
+    li.login-btn {
+      margin: 32px 0px !important;
+      margin-top: 0 !important;
+    }
+  
+    .login-btn > ul.sub-menu {
+      right: 0;
+      left: unset !important;
+    }
+  }
+  
+  li.login-btn ul.sub-menu a {
+    display: flex;
+  }
+  
+.grecaptcha-badge { visibility: hidden; }		</style>
+		<style id="kirki-inline-styles">.page-header{background-image:url("https://www.gigenet.com/wp-content/themes/engitech/images/bg-pheader.jpg");}body, p, button, input, select, optgroup, textarea, .font-main, .elementor-element .elementor-widget-text-editor, .elementor-element .elementor-widget-icon-list .elementor-icon-list-item{font-family:Inter;font-weight:300;}h1, .elementor-widget.elementor-widget-heading h1.elementor-heading-title{font-family:Inter;}h2, .elementor-widget.elementor-widget-heading h2.elementor-heading-title{font-family:Inter;}h3, .elementor-widget.elementor-widget-heading h3.elementor-heading-title{font-family:Inter;}h4, .elementor-widget.elementor-widget-heading h4.elementor-heading-title{font-family:Inter;}h5, .elementor-widget.elementor-widget-heading h5.elementor-heading-title{font-family:Inter;}h6, .elementor-widget.elementor-widget-heading h6.elementor-heading-title{font-family:Inter;}.main-navigation a{font-family:Inter;}@media (max-width: 767px){}@media (min-width: 768px) and (max-width: 1024px){}@media (min-width: 1024px){}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7SUc.woff2) format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7SUc.woff2) format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7SUc.woff2) format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7SUc.woff2) format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7SUc.woff2) format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://www.gigenet.com/wp-content/fonts/inter/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}</style></head>
+
+<body class="home wp-singular page-template-default page page-id-6088 wp-custom-logo wp-theme-engitech wp-child-theme-engitech-child elementor-default elementor-kit-5 elementor-page elementor-page-6088 engitech-theme-ver-1.4.1 wordpress-version-6.9.4">
+<div id="page" class="site">
+	<!-- #site-header-open -->
+<header id="site-header" class="site-header header-overlay">
+
+    <!-- #header-desktop-open -->
+    <div class="header-desktop">		<div data-elementor-type="wp-post" data-elementor-id="2843" class="elementor elementor-2843">
+						<div class="elementor-section elementor-top-section elementor-element elementor-element-755e8132 elementor-hidden-tablet elementor-hidden-mobile elementor-section-full_width ot-traditional elementor-section-height-default elementor-section-height-default" data-id="755e8132" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;none&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-extended">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-62c5fc44 ot-column-items-center ot-flex-column-vertical" data-id="62c5fc44" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<div class="elementor-element elementor-element-60d53692 elementor-widget elementor-widget-ilogo" data-id="60d53692" data-element_type="widget" data-e-type="widget" data-widget_type="ilogo.default">
+				<div class="elementor-widget-container">
+								
+	    	<div class="the-logo">
+				<a href="https://www.gigenet.com/">
+					<img src="https://www.gigenet.com/wp-content/uploads/2020/01/Logo.svg" alt="GigeNET">
+				</a>			        
+		    </div>
+		    
+	    				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-224525d5 ot-flex-column-vertical" data-id="224525d5" data-element_type="column" data-e-type="column" data-settings="{&quot;animation&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2ff5b4f4 elementor-widget elementor-widget-imenu" data-id="2ff5b4f4" data-element_type="widget" data-e-type="widget" data-widget_type="imenu.default">
+				<div class="elementor-widget-container">
+								<nav class="main-navigation no-line no-under-line">			
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-7993" class="products-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7993"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-12348" class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12348"><a href="#">Products</a></li>
+	<li id="menu-item-7966" class="colocation-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7966"><a href="#">COLOCATION</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7979"><a href="https://www.gigenet.com/chicago-colocation/">Chicago Colocation</a></li>
+		<li id="menu-item-14642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14642"><a href="https://www.gigenet.com/chicago-colocation/custom-quote/">Order Colocation</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7967" class="de-server-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7967"><a href="#">DEDICATED SERVERS</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7971" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7971"><a href="https://www.gigenet.com/dedicated-servers/">Dedicated Servers</a></li>
+		<li id="menu-item-7972" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7972"><a href="https://www.gigenet.com/datacenter-locations/">Locations</a></li>
+		<li id="menu-item-7973" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7973"><a href="https://www.gigenet.com/dedicated-servers/current-specials/">Current Specials</a></li>
+		<li id="menu-item-7974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7974"><a href="https://www.gigenet.com/dedicated-servers/browse-servers/">Browse Dedicated</a></li>
+		<li id="menu-item-14326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14326"><a href="https://www.gigenet.com/server-clusters/">Server Clusters</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7975" class="pri-server-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7975"><a href="#">VIRTUAL PRIVATE SERVERS</a>
+	<ul class="sub-menu">
+		<li id="menu-item-7976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7976"><a href="https://www.gigenet.com/cloud-servers/about/">Cloud Services</a></li>
+		<li id="menu-item-7977" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7977"><a href="https://www.gigenet.com/cloud-servers/">GigeNET Cloud</a></li>
+		<li id="menu-item-14646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14646"><a href="https://api.gigenetcloud.com/">GigeNET&#8217;s Cloud API</a></li>
+	</ul>
+</li>
+	<li id="menu-item-7970" class="addon-services-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7970"><a href="#">ADD-ON SERVICES</a>
+	<ul class="sub-menu">
+		<li id="menu-item-6226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6226"><a href="https://www.gigenet.com/ddos-attack-mitigation/">DDoS Mitigation</a></li>
+		<li id="menu-item-14668" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14668"><a href="https://www.gigenet.com/remote-desktop/">Remote Desktop</a></li>
+		<li id="menu-item-6843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6843"><a href="https://www.gigenet.com/safety-security/">Safety and Security</a></li>
+		<li id="menu-item-6844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6844"><a href="https://www.gigenet.com/storage/">Storage Services</a></li>
+		<li id="menu-item-6845" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6845"><a href="https://www.gigenet.com/veeam/draas/">Disaster Recovery  Services</a></li>
+		<li id="menu-item-6846" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6846"><a href="https://www.gigenet.com/veeam/backups/">Veeam Backups</a></li>
+		<li id="menu-item-7980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7980"><a href="https://www.gigenet.com/backups/">Backup Services</a></li>
+		<li id="menu-item-7499" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7499"><a href="https://www.gigenet.com/managed-servers/">Managed Services</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-7978" class="resources-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7978"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li id="menu-item-12370" class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12370"><a href="#">RESOURCES</a></li>
+	<li id="menu-item-14327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14327"><a href="https://www.gigenet.com/blog/"><b>Blog</b> <div class="desc">Hosting and technology insights</div></a></li>
+	<li id="menu-item-6223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6223"><a rel="privacy-policy" href="https://www.gigenet.com/legal/privacy-statement/"><b>Privacy Policy</b> <div class="desc">GigeNET’s privacy statement</div></a></li>
+	<li id="menu-item-6224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6224"><a href="https://www.gigenet.com/legal/sla/"><b>Service Level Agreements</b> <div class="desc">Explore all our SLAs in one place</div></a></li>
+	<li id="menu-item-6225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6225"><a href="https://www.gigenet.com/legal/terms-of-service/"><b>Terms of Service</b> <div class="desc">Read our terms of service</div></a></li>
+	<li id="menu-item-6410" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6410"><a href="https://www.gigenet.com/resources/"><b>Whitepapers</b> <div class="desc">Download and read our whitepapers</div></a></li>
+</ul>
+</li>
+<li id="menu-item-7969" class="resources-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7969"><a href="#">Why GigeNET</a>
+<ul class="sub-menu">
+	<li id="menu-item-12425" class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12425"><a href="#">WHY GIGENET</a></li>
+	<li id="menu-item-7981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7981"><a href="https://www.gigenet.com/about/"><b>About Us</b> <div class="desc">Your hosting partner for life</div></a></li>
+	<li id="menu-item-7312" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7312"><a href="https://www.gigenet.com/about/customer-experiences/"><b>Our Customers</b> <div class="desc">More than customer-centric company</div></a></li>
+	<li id="menu-item-6847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6847"><a href="https://www.gigenet.com/managed-servers/"><b>Managed Services</b> <div class="desc">Explore our fully managed services</div></a></li>
+	<li id="menu-item-7313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7313"><a href="https://www.gigenet.com/affiliates/"><b>Affiliate Program</b> <div class="desc">Earn more with GigeNET</div></a></li>
+	<li id="menu-item-6234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6234"><a href="https://www.gigenet.com/careers/"><b>Careers</b> <div class="desc">Become a part of our team</div></a></li>
+</ul>
+</li>
+<li id="menu-item-2017" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="https://www.gigenet.com/about/contact/">Contact Us</a></li>
+</ul>			</nav>
+	    				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2d3490c6 ot-column-items-center ot-flex-column-horizontal" data-id="2d3490c6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fd1c10d elementor-widget elementor-widget-imenu" data-id="fd1c10d" data-element_type="widget" data-e-type="widget" data-widget_type="imenu.default">
+				<div class="elementor-widget-container">
+								<nav class="main-navigation no-line no-under-line">			
+				<ul id="menu-login-menu" class="menu"><li id="menu-item-12430" class="resources-mega login-btn menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12430"><a href="#">Log In</a>
+<ul class="sub-menu">
+	<li id="menu-item-12428" class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12428"><a href="#">Log In</a></li>
+	<li id="menu-item-12426" class="de-server-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-12426"><a href="https://clientportal.gigenet.com/login?_gl=1dq3t1c_gaNTgyOTIyMTkwLjE2NTcxMzE5NDY._ga_MY57T3MJPE*MTY1NzU0MDU1NS44LjAuMTY1NzU0MDU1NS4w">Dedicated portal</a></li>
+	<li id="menu-item-12427" class="cloud-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-12427"><a href="https://manage.thegcloud.com/">Cloud portal</a></li>
+</ul>
+</li>
+</ul>			</nav>
+	    				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+				</div>
+		</div>    <!-- #header-desktop-close -->
+
+    <!-- #header-mobile-open -->
+    <div class="header-mobile">		<div data-elementor-type="wp-post" data-elementor-id="4905" class="elementor elementor-4905">
+						<div class="elementor-section elementor-top-section elementor-element elementor-element-5114821 elementor-section-content-middle ot-layout_inline elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5114821" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-custom">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-44b71b1 ot-flex-column-vertical" data-id="44b71b1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3908885 elementor-widget__width-initial elementor-widget elementor-widget-ilogo" data-id="3908885" data-element_type="widget" data-e-type="widget" data-widget_type="ilogo.default">
+				<div class="elementor-widget-container">
+								
+	    	<div class="the-logo">
+				<a href="https://www.gigenet.com/">
+					<img src="https://www.gigenet.com/wp-content/uploads/2021/03/Logo-responsive-4.svg" alt="GigeNET">
+				</a>			        
+		    </div>
+		    
+	    				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-fc0d510 ot-flex-column-horizontal" data-id="fc0d510" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-034937c elementor-hidden-desktop elementor-widget elementor-widget-imenu_mobile" data-id="034937c" data-element_type="widget" data-e-type="widget" data-widget_type="imenu_mobile.default">
+				<div class="elementor-widget-container">
+								
+	    	<div class="octf-menu-mobile octf-cta-header">
+				<div id="mmenu-toggle" class="mmenu-toggle">
+					<button></button>
+				</div>
+				<div class="site-overlay mmenu-overlay"></div>
+				<div id="mmenu-wrapper" class="mmenu-wrapper on-right">
+					<div class="mmenu-inner">
+						<a class="mmenu-close" href="#"><i class="flaticon-right-arrow-1"></i></a>
+						<div class="mobile-nav">
+							<ul id="menu-main-menu-1" class="mobile_mainmenu none-style"><li class="products-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7993"><a href="#">Products</a>
+<ul class="sub-menu">
+	<li class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12348"><a href="#">Products</a></li>
+	<li class="colocation-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7966"><a href="#">COLOCATION</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7979"><a href="https://www.gigenet.com/chicago-colocation/">Chicago Colocation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14642"><a href="https://www.gigenet.com/chicago-colocation/custom-quote/">Order Colocation</a></li>
+	</ul>
+</li>
+	<li class="de-server-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7967"><a href="#">DEDICATED SERVERS</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7971"><a href="https://www.gigenet.com/dedicated-servers/">Dedicated Servers</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7972"><a href="https://www.gigenet.com/datacenter-locations/">Locations</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7973"><a href="https://www.gigenet.com/dedicated-servers/current-specials/">Current Specials</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7974"><a href="https://www.gigenet.com/dedicated-servers/browse-servers/">Browse Dedicated</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14326"><a href="https://www.gigenet.com/server-clusters/">Server Clusters</a></li>
+	</ul>
+</li>
+	<li class="pri-server-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7975"><a href="#">VIRTUAL PRIVATE SERVERS</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7976"><a href="https://www.gigenet.com/cloud-servers/about/">Cloud Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7977"><a href="https://www.gigenet.com/cloud-servers/">GigeNET Cloud</a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14646"><a href="https://api.gigenetcloud.com/">GigeNET&#8217;s Cloud API</a></li>
+	</ul>
+</li>
+	<li class="addon-services-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7970"><a href="#">ADD-ON SERVICES</a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6226"><a href="https://www.gigenet.com/ddos-attack-mitigation/">DDoS Mitigation</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14668"><a href="https://www.gigenet.com/remote-desktop/">Remote Desktop</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6843"><a href="https://www.gigenet.com/safety-security/">Safety and Security</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6844"><a href="https://www.gigenet.com/storage/">Storage Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6845"><a href="https://www.gigenet.com/veeam/draas/">Disaster Recovery  Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6846"><a href="https://www.gigenet.com/veeam/backups/">Veeam Backups</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7980"><a href="https://www.gigenet.com/backups/">Backup Services</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7499"><a href="https://www.gigenet.com/managed-servers/">Managed Services</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="resources-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7978"><a href="#">Resources</a>
+<ul class="sub-menu">
+	<li class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12370"><a href="#">RESOURCES</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14327"><a href="https://www.gigenet.com/blog/"><b>Blog</b> <div class="desc">Hosting and technology insights</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6223"><a rel="privacy-policy" href="https://www.gigenet.com/legal/privacy-statement/"><b>Privacy Policy</b> <div class="desc">GigeNET’s privacy statement</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6224"><a href="https://www.gigenet.com/legal/sla/"><b>Service Level Agreements</b> <div class="desc">Explore all our SLAs in one place</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6225"><a href="https://www.gigenet.com/legal/terms-of-service/"><b>Terms of Service</b> <div class="desc">Read our terms of service</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6410"><a href="https://www.gigenet.com/resources/"><b>Whitepapers</b> <div class="desc">Download and read our whitepapers</div></a></li>
+</ul>
+</li>
+<li class="resources-mega menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-7969"><a href="#">Why GigeNET</a>
+<ul class="sub-menu">
+	<li class="mega-subtitle menu-item menu-item-type-custom menu-item-object-custom menu-item-12425"><a href="#">WHY GIGENET</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7981"><a href="https://www.gigenet.com/about/"><b>About Us</b> <div class="desc">Your hosting partner for life</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7312"><a href="https://www.gigenet.com/about/customer-experiences/"><b>Our Customers</b> <div class="desc">More than customer-centric company</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6847"><a href="https://www.gigenet.com/managed-servers/"><b>Managed Services</b> <div class="desc">Explore our fully managed services</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7313"><a href="https://www.gigenet.com/affiliates/"><b>Affiliate Program</b> <div class="desc">Earn more with GigeNET</div></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6234"><a href="https://www.gigenet.com/careers/"><b>Careers</b> <div class="desc">Become a part of our team</div></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2017"><a href="https://www.gigenet.com/about/contact/">Contact Us</a></li>
+</ul>						</div>   	
+					</div>   	
+				</div>
+			</div>
+	    				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+				</div>
+		</div>    <!-- #header-mobile-close -->
+
+</header>
+<!-- #site-header-close -->
+<!-- #side-panel-open -->
+<!-- #side-panel-close -->
+	<div id="content" class="site-content">
+	
+    		<div data-elementor-type="wp-page" data-elementor-id="6088" class="elementor elementor-6088">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-d7a779a elementor-hidden-mobile ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d7a779a" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-a044603 ot-flex-column-vertical" data-id="a044603" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-593c7c5 elementor-widget elementor-widget-heading" data-id="593c7c5" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Founded on customer necessity.
+Progressing for customer innovation. </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-183f07c elementor-widget elementor-widget-text-editor" data-id="183f07c" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>GigeNET is a leading provider of Cloud Hosting and Dedicated Servers, delivering high-performance solutions with advanced DDoS Protection. From cloud and hybrid hosting to colocation, we offer secure, reliable infrastructure built on decades of customer-driven innovation.</p>								</div>
+				</div>
+				<div class="elementor-section elementor-inner-section elementor-element elementor-element-4e087bb elementor-section-full_width ot-traditional elementor-section-height-default elementor-section-height-default" data-id="4e087bb" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-39f0e16 ot-flex-column-vertical" data-id="39f0e16" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-e5cc796 elementor-widget elementor-widget-ibutton" data-id="e5cc796" data-element_type="widget" data-e-type="widget" data-widget_type="ibutton.default">
+				<div class="elementor-widget-container">
+							<div class="ot-button">
+			<a href="/dedicated-servers/browse-servers/" class="octf-btn octf-btn-primary">Browse our servers</a>
+	    </div>
+	    				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8a4195f ot-flex-column-vertical" data-id="8a4195f" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d558297 elementor-widget elementor-widget-ibutton" data-id="d558297" data-element_type="widget" data-e-type="widget" data-widget_type="ibutton.default">
+				<div class="elementor-widget-container">
+							<div class="ot-button">
+			<a href="/about/contact/" class="octf-btn octf-btn-primary">Contact us</a>
+	    </div>
+	    				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5b5f4b0 elementor-hidden-desktop elementor-hidden-tablet ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5b5f4b0" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-9bf8c76 ot-flex-column-vertical" data-id="9bf8c76" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-191a2fb elementor-widget elementor-widget-heading" data-id="191a2fb" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Founded on customer necessity.
+Progressing for customer innovation. </h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-94567ea elementor-widget elementor-widget-text-editor" data-id="94567ea" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>GigeNET is a leading provider of Cloud Hosting and Dedicated Servers, delivering high-performance solutions with advanced DDoS Protection. From cloud and hybrid hosting to colocation, we offer secure, reliable infrastructure built on decades of customer-driven innovation.</p>								</div>
+				</div>
+				<div class="elementor-section elementor-inner-section elementor-element elementor-element-7f8f975 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f8f975" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-299fab3 ot-flex-column-vertical" data-id="299fab3" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ca698d3 elementor-widget elementor-widget-ibutton" data-id="ca698d3" data-element_type="widget" data-e-type="widget" data-widget_type="ibutton.default">
+				<div class="elementor-widget-container">
+							<div class="ot-button">
+			<a href="/dedicated-servers/browse-servers/" class="octf-btn octf-btn-primary">Browse our servers</a>
+	    </div>
+	    				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-c1289a4 ot-flex-column-vertical" data-id="c1289a4" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6566b0b elementor-widget elementor-widget-ibutton" data-id="6566b0b" data-element_type="widget" data-e-type="widget" data-widget_type="ibutton.default">
+				<div class="elementor-widget-container">
+							<div class="ot-button">
+			<a href="/about/contact/" class="octf-btn octf-btn-primary">Contact us</a>
+	    </div>
+	    				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ef99ce9 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ef99ce9" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-351405d6 ot-flex-column-vertical" data-id="351405d6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2ce95809 elementor-widget elementor-widget-heading" data-id="2ce95809" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">World-class data centers, coast-to-coast.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4b0f6d7a elementor-widget elementor-widget-spacer" data-id="4b0f6d7a" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6941b4f elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="6941b4f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: left;">Our strategically located data centers provide you with the best access to the fastest network, coast to coast and around the globe.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-35e70b9 ot-column-items-top ot-flex-column-vertical" data-id="35e70b9" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d852313 elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="d852313" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="/datacenter-locations/">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7f9e736a ot-layout_block elementor-section-height-min-height elementor-section-items-top elementor-section-content-top elementor-section-boxed elementor-section-height-default" data-id="7f9e736a" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e1bc8a1 ot-flex-column-vertical" data-id="e1bc8a1" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d1932fc elementor-widget elementor-widget-image" data-id="d1932fc" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img fetchpriority="high" decoding="async" width="722" height="430" src="https://www.gigenet.com/wp-content/uploads/2022/04/Chicago-1.png" class="attachment-large size-large wp-image-7926" alt="Chicago city skyline overlooking Lake Michigan, illustrating enterprise-grade Cloud Hosting and Dedicated Servers with integrated DDoS Protection." srcset="https://www.gigenet.com/wp-content/uploads/2022/04/Chicago-1.png 722w, https://www.gigenet.com/wp-content/uploads/2022/04/Chicago-1-300x179.png 300w, https://www.gigenet.com/wp-content/uploads/2022/04/Chicago-1-720x429.png 720w" sizes="(max-width: 722px) 100vw, 722px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-be7d691 elementor-widget elementor-widget-spacer" data-id="be7d691" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-b22c53b elementor-widget elementor-widget-heading" data-id="b22c53b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Chicago, IL</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2814a84 elementor-widget elementor-widget-spacer" data-id="2814a84" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ebb72ce elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="ebb72ce" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">DWDM fiber ring connection</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">SSAE SOC 2 Type II</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Redundant power and cooling systems</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Green by design architecture</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Cloud Hosting and Dedicated Servers, Colocation, Managed Services, Backup Solutions, and More</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4f3a6021 ot-flex-column-vertical" data-id="4f3a6021" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ddc7959 elementor-widget elementor-widget-image" data-id="ddc7959" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="722" height="430" src="https://www.gigenet.com/wp-content/uploads/2022/05/LA-1.png" class="attachment-large size-large wp-image-10053" alt="Palm trees framing the Los Angeles skyline, representing secure Cloud Hosting and Dedicated Servers with advanced DDoS Protection for West Coast infrastructure." srcset="https://www.gigenet.com/wp-content/uploads/2022/05/LA-1.png 722w, https://www.gigenet.com/wp-content/uploads/2022/05/LA-1-300x179.png 300w, https://www.gigenet.com/wp-content/uploads/2022/05/LA-1-720x429.png 720w" sizes="(max-width: 722px) 100vw, 722px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-33f3c7b elementor-widget elementor-widget-spacer" data-id="33f3c7b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-646d71af elementor-widget elementor-widget-heading" data-id="646d71af" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Los Angeles, CA</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-465bc8ef elementor-widget elementor-widget-spacer" data-id="465bc8ef" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-014220a elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="014220a" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">N1 system redundancy</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">SSAE SOC 2 Type II</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Close proximity to TransPacific cables</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Cloud Hosting and Dedicated Servers with Managed Services, Backup Solutions, and More</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0b66d65 ot-flex-column-vertical" data-id="0b66d65" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-50d4515 elementor-widget elementor-widget-image" data-id="50d4515" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="722" height="430" src="https://www.gigenet.com/wp-content/uploads/2022/04/Ashburn-1.png" class="attachment-large size-large wp-image-7927" alt="Aerial view of Ashburn, Virginia—home to major data centers—highlighting secure Cloud Hosting and Dedicated Servers with powerful DDoS Protection capabilities." srcset="https://www.gigenet.com/wp-content/uploads/2022/04/Ashburn-1.png 722w, https://www.gigenet.com/wp-content/uploads/2022/04/Ashburn-1-300x179.png 300w, https://www.gigenet.com/wp-content/uploads/2022/04/Ashburn-1-720x429.png 720w" sizes="(max-width: 722px) 100vw, 722px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-928a019 elementor-widget elementor-widget-spacer" data-id="928a019" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-a9e4c0d elementor-widget elementor-widget-heading" data-id="a9e4c0d" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Ashburn, VA (Washington DC area)</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7e70a88 elementor-widget elementor-widget-spacer" data-id="7e70a88" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2068b1e elementor-align-start elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="2068b1e" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">N1 system redundancy</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">SSAE 16/ISAE 3402 SOC1 Type II, SOC 2 Type II, ISO 27001</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Close proximity to TransAtlantic cables</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Green by design architecture</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-check"></i>						</span>
+										<span class="elementor-icon-list-text">Cloud Hosting and Dedicated Servers with Managed Services, Backup Solutions, and More</span>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-410aa842 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="410aa842" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-75017651 ot-flex-column-vertical" data-id="75017651" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-44524e6c elementor-widget elementor-widget-heading" data-id="44524e6c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">What we do?</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1db380aa elementor-widget elementor-widget-spacer" data-id="1db380aa" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1ce0db6f elementor-widget elementor-widget-heading" data-id="1ce0db6f" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">We design our services with you in mind.</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-70d7c4e0 elementor-widget elementor-widget-spacer" data-id="70d7c4e0" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-ce435ea elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="ce435ea" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>We guarantee secure facilities, optimized and efficient networking backed by our 100% uptime SLA, and operational reliability that will let you focus on running your business while knowing your platform is in good hands.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-3d64a35d ot-layout_block elementor-section-height-min-height elementor-section-items-top elementor-section-content-top elementor-section-boxed elementor-section-height-default" data-id="3d64a35d" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-37867d5 ot-flex-column-vertical" data-id="37867d5" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-45a63d09 elementor-view-default elementor-widget elementor-widget-icon" data-id="45a63d09" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="56" viewBox="0 0 56 56" width="56"><g stroke="#001b3b" stroke-linejoin="round" stroke-width="2"><path d="m28 47.25h-21v7h21z"></path><path d="m49 47.25h-21v7h21z"></path><path d="m49 40.25h-21v7h21z"></path><path d="m49 33.25h-21v7h21z"></path><path d="m49 26.25h-21v7h21z"></path><path d="m49 19.25h-21v7h21z"></path><path d="m28 40.25h-21v7h21z"></path><path d="m28 33.25h-21v7h21z"></path><path d="m49 12.25h-21v7h21z"></path><path d="m49 5.25h-21v7h21z"></path><path d="m28 26.25h-21v7h21z"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f494db6 elementor-widget elementor-widget-spacer" data-id="f494db6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3b3c88b elementor-widget elementor-widget-heading" data-id="3b3c88b" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Colocation</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1f7a6f75 elementor-widget elementor-widget-spacer" data-id="1f7a6f75" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-c03040a elementor-widget elementor-widget-text-editor" data-id="c03040a" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>House your privately owned servers in our facility. You manage your servers, we’ve got the rest.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2e0db13 elementor-widget elementor-widget-spacer" data-id="2e0db13" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-be0e474 elementor-widget elementor-widget-button" data-id="be0e474" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/chicago-colocation/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="20" viewBox="0 0 20 20" width="20"><circle cx="10" cy="10" fill="#5cc7ff" r="10"></circle><path d="m8 14 4-4-4-4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-e71c082 elementor-widget elementor-widget-spacer" data-id="e71c082" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-424ecff7 ot-flex-column-vertical" data-id="424ecff7" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-56507ea7 elementor-view-default elementor-widget elementor-widget-icon" data-id="56507ea7" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="56" viewBox="0 0 56 56" width="56"><g stroke="#001b3b" stroke-linejoin="round" stroke-width="2"><path d="m54.25 1.69727h-52.5v16.96973h52.5z"></path><path d="m54.25 37.334h-52.5v16.9697h52.5z"></path><path d="m1.75 52.6054v-33.9394h52.5v33.9394"></path><path d="m17.5 10.1816h-10.5"></path><path d="m8.75 28.8496h31.5"></path><path d="m29.75 45.8184h17.5"></path><path d="m43.75 28.8496h3.5"></path><path d="m8.75 45.8184h3.5"></path><path d="m15.75 45.8184h3.5"></path><path d="m22.75 45.8184h3.5"></path><path d="m21 10.1816h3.5"></path><path d="m28 10.1816h3.5"></path><path d="m35 10.1816h3.5"></path><path d="m42 10.1816h3.5"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7942d286 elementor-widget elementor-widget-spacer" data-id="7942d286" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3f78d06 elementor-widget elementor-widget-heading" data-id="3f78d06" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Dedicated servers</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-145fdb12 elementor-widget elementor-widget-spacer" data-id="145fdb12" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-3463898d elementor-widget elementor-widget-text-editor" data-id="3463898d" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Lease a server 100% dedicated to you. We handle the infrastructure and hardware support. Management plans available.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a72b929 elementor-widget elementor-widget-spacer" data-id="a72b929" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9c7808d elementor-widget elementor-widget-button" data-id="9c7808d" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/dedicated-servers/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="20" viewBox="0 0 20 20" width="20"><circle cx="10" cy="10" fill="#5cc7ff" r="10"></circle><path d="m8 14 4-4-4-4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-2944f7c elementor-widget elementor-widget-spacer" data-id="2944f7c" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-77d624ca ot-flex-column-vertical" data-id="77d624ca" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-24d134e2 elementor-view-default elementor-widget elementor-widget-icon" data-id="24d134e2" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="56" viewBox="0 0 56 56" width="56"><g stroke="#001b3b" stroke-linejoin="round" stroke-width="2"><path d="m34.9996 13.2008c-1.8272-1.6425-4.0807-2.7362-6.5016-3.1556-2.4208-.41938-4.9109-.14744-7.1841.7846-2.2733.932-4.2376 2.4864-5.6672 4.4845-1.4297 1.9981-2.2668 4.3589-2.4152 6.8114-.9896-.445-2.0665-.6624-3.1513-.6361-1.08483.0263-2.14993.2956-3.11689.788s-1.81117 1.1955-2.47046 2.0573c-.6593.8619-1.11689 1.8607-1.33909 2.9228-.22221 1.0621-.20336 2.1606.05515 3.2144.25852 1.0539.75011 2.0364 1.43858 2.8751.68848.8388 1.55631 1.5124 2.53959 1.9714.98329.4589 2.05699.6915 3.14202.6806h7.2561"></path><path d="m53 18h-32v10.3226h32z"></path><path d="m53 39.6777h-32v10.3226h32z"></path><path d="m21 48.9674v-20.6451h32v20.6451"></path><path d="m30.5997 23.1621h-6.4"></path><path d="m25.2666 34.5156h19.2"></path><path d="m38.0664 44.8379h10.6667"></path><path d="m46.6006 34.5156h2.1333"></path><path d="m25.2666 44.8379h2.1333"></path><path d="m29.5337 44.8379h2.1333"></path><path d="m33.8003 44.8379h2.1333"></path><path d="m32.7334 23.1621h2.1333"></path><path d="m37 23.1621h2.1333"></path><path d="m41.2666 23.1621h2.1333"></path><path d="m45.5327 23.1621h2.1333"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d554110 elementor-widget elementor-widget-spacer" data-id="5d554110" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-141c5014 elementor-widget elementor-widget-heading" data-id="141c5014" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Virtual private servers</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-36fba80b elementor-widget elementor-widget-spacer" data-id="36fba80b" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4b4be3f elementor-widget elementor-widget-text-editor" data-id="4b4be3f" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Host your content on our shared platform with the flexibility to adjust your resources on demand. Management plans available.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-7805457 elementor-widget elementor-widget-spacer" data-id="7805457" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2d85d62 elementor-widget elementor-widget-button" data-id="2d85d62" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/cloud-servers/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="20" viewBox="0 0 20 20" width="20"><circle cx="10" cy="10" fill="#5cc7ff" r="10"></circle><path d="m8 14 4-4-4-4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>			</span>
+									<span class="elementor-button-text">Learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-67a473e elementor-reverse-mobile ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67a473e" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3b7a601 ot-column-items-center ot-flex-column-vertical" data-id="3b7a601" data-element_type="column" data-e-type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-9b6b843 elementor-widget elementor-widget-heading" data-id="9b6b843" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">streamLINE YOUR BUSINESS</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-69cbae9 elementor-widget elementor-widget-heading" data-id="69cbae9" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">In-house portal
+management solution</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-9149ed9 ot-view-default elementor-widget elementor-widget-ot-icon-list" data-id="9149ed9" data-element_type="widget" data-e-type="widget" data-widget_type="ot-icon-list.default">
+				<div class="elementor-widget-container">
+						        <div class="ot-icon-list-wrapper">
+	        	<ul class="unstyle ot-icon-list-items ">
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><path d="m12 .75586c-2.90687.000368-5.77968.79829-8.60739 2.33498-.11872.06437-.21786.15959-.28695.27561-.0691.11603-.10559.24853-.10563.38357 0 4.875-.02135 8.32578 1.07666 11.32038 1.09801 2.9945 3.32727 5.394 7.52051 8.0624.1204.0767.2601.1174.4028.1174s.2825-.0407.4029-.1174c4.1932-2.6684 6.4225-5.0679 7.5205-8.0624 1.098-2.9946 1.0766-6.44538 1.0766-11.32038 0-.13504-.0365-.26754-.1056-.38357-.0691-.11602-.1682-.21124-.2869-.27561-2.8277-1.53663-5.7003-2.335349-8.6075-2.33498zm0 1.50002c2.4996-.00031 4.9819.69458 7.4898 1.98931-.003 4.56304-.0494 7.78341-.9756 10.30951-.9224 2.5156-2.8125 4.564-6.5142 6.9946-3.7016-2.4306-5.59173-4.479-6.51413-6.9946-.92625-2.5261-.9726-5.74647-.97559-10.30951 2.50783-1.29464 4.98995-1.989 7.48972-1.98931z" fill="#5cc7ff"></path></svg>							</span>
+														<span class="ot-icon-list-text">Secure access</span>
+								        			</li>
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><g stroke="#5cc7ff" stroke-linejoin="round"><path d="m23.25 4.5h-22.5v15h22.5z"></path><path d="m12 15.75c2.0711 0 3.75-1.6789 3.75-3.75 0-2.07107-1.6789-3.75-3.75-3.75-2.07107 0-3.75 1.67893-3.75 3.75 0 2.0711 1.67893 3.75 3.75 3.75z"></path><path d="m6 7.5h-2.25v2.25"></path><path d="m20.25 9.75v-2.25h-2.25"></path><path d="m18 16.5h2.25v-2.25"></path><path d="m3.75 14.25v2.25h2.25"></path></g></svg>							</span>
+														<span class="ot-icon-list-text">Manage billing</span>
+								        			</li>
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="25" viewBox="0 0 24 25" width="24"><g fill="#5cc7ff"><path d="m0 7.82141v.97767 6.84372.9777 7.8214h24v-7.8214-.9777-6.84372-.97767-7.82141h-24zm23 15.64279h-22v-6.8437h22zm0-7.8214h-22v-6.84372h22zm-22-14.665124h22v6.843734h-22z"></path><path d="m16.5 3.91211h-13.5v.97754h13.5z"></path><path d="m21 3.91211h-1v.97754h1z"></path><path d="m16.5 11.7324h-13.5v.9795h13.5z"></path><path d="m21 11.7324h-1v.9795h1z"></path><path d="m16.5 19.5547h-13.5v.9792h13.5z"></path><path d="m21 19.5547h-1v.9792h1z"></path></g></svg>							</span>
+														<span class="ot-icon-list-text">Server management and metrics</span>
+								        			</li>
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="25" viewBox="0 0 26 25" width="26"><path d="m1.41406 4.36523v19.63577h23.17244v-19.63577" stroke="#5cc7ff"></path><path d="m12.6464 14.4961c.1953.1953.5119.1953.7072 0l3.1819-3.1819c.1953-.1953.1953-.5119 0-.7072-.1952-.1952-.5118-.1952-.7071 0l-2.8284 2.8285-2.8284-2.8285c-.19529-.1952-.51187-.1952-.70713 0-.19527.1953-.19527.5119 0 .7072zm.8536-.3535v-14.14243215h-1v14.14243215z" fill="#5cc7ff"></path><g stroke="#5cc7ff"><path d="m1 4.21484h8.27586"></path><path d="m16.7236 4.21484h8.2759"></path></g></svg>							</span>
+														<span class="ot-icon-list-text">Automated OS reinstalls</span>
+								        			</li>
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="24" viewBox="0 0 24 24" width="24"><g fill="#5cc7ff"><path d="m21.1207 9.16367v-8.683201h-.96v8.683201c-1.3598.22944-2.4 1.41213-2.4 2.83683 0 1.4246 1.0402 2.6068 2.4 2.8368v8.6832h.96v-8.6832c1.3599-.2295 2.4-1.4122 2.4-2.8368 0-1.4247-1.0401-2.60691-2.4-2.83683zm-.48 4.75683c-1.0588 0-1.92-.8612-1.92-1.92 0-1.0589.8612-1.92 1.92-1.92 1.0589 0 1.92.8611 1.92 1.92 0 1.0588-.8611 1.92-1.92 1.92z"></path><path d="m2.88047.480469v3.403201c-1.35984.22992-2.400001 1.41264-2.400001 2.8368s1.040161 2.60688 2.400001 2.8368v13.96323h.96v-13.96323c1.35984-.22944 2.4-1.41216 2.4-2.8368s-1.04016-2.60688-2.4-2.8368v-3.403201zm2.4 6.240001c0 1.05888-.86112 1.92-1.92 1.92s-1.92-.86112-1.92-1.92.86112-1.92 1.92-1.92 1.92.86112 1.92 1.92z"></path><path d="m11.5201.480469v14.443231c-1.3598.2294-2.39998 1.4121-2.39998 2.8368 0 1.4246 1.04018 2.6068 2.39998 2.8368v2.9232h.96v-2.9232c1.3599-.2295 2.4-1.4122 2.4-2.8368 0-1.4247-1.0401-2.6069-2.4-2.8368v-14.443231zm2.4 17.280031c0 1.0588-.8611 1.92-1.92 1.92s-1.92-.8612-1.92-1.92c0-1.0589.8611-1.92 1.92-1.92s1.92.8611 1.92 1.92z"></path></g></svg>							</span>
+														<span class="ot-icon-list-text">Remote control of your servers via KVM over IP and remote reboot</span>
+								        			</li>
+	        			        			<li class="ot-icon-list-item ">
+	        				
+							<span class="ot-icon-list-icon">
+								<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="none" height="24" viewBox="0 0 24 24" width="24"><clipPath id="a"><path d="m0 0h24v23.8961h-24z"></path></clipPath><g clip-path="url(#a)"><path d="m13.25 8h-1.5v3.7338h-3.75v1.4935h3.75v3.7337h1.5v-3.7337h3.75v-1.4935h-3.75z" fill="#5cc7ff"></path><path d="m.5.5h23v23h-23z" stroke="#5cc7ff"></path></g></svg>							</span>
+														<span class="ot-icon-list-text">Other industry-fit and feature-rich solutions for your business</span>
+								        			</li>
+	        			        	</ul>
+	        </div>
+	    				</div>
+				</div>
+				<div class="elementor-element elementor-element-58722fc elementor-widget elementor-widget-button" data-id="58722fc" data-element_type="widget" data-e-type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="/about/contact/">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon">
+				<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="20" viewBox="0 0 20 20" width="20"><circle cx="10" cy="10" fill="#5cc7ff" r="10"></circle><path d="m8 14 4-4-4-4" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"></path></svg>			</span>
+									<span class="elementor-button-text">Contact us to learn more</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b9c595c ot-column-items-center ot-flex-column-vertical" data-id="b9c595c" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4046044 elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="4046044" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="696" height="782" src="https://www.gigenet.com/wp-content/uploads/2022/04/AdobeStock_92614965-1-1.png" class="attachment-full size-full wp-image-7928" alt="" srcset="https://www.gigenet.com/wp-content/uploads/2022/04/AdobeStock_92614965-1-1.png 696w, https://www.gigenet.com/wp-content/uploads/2022/04/AdobeStock_92614965-1-1-267x300.png 267w" sizes="(max-width: 696px) 100vw, 696px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-13589a39 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13589a39" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6858e026 ot-flex-column-vertical" data-id="6858e026" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7f588d1c elementor-widget elementor-widget-heading" data-id="7f588d1c" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">partners for life</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6eead11d elementor-widget elementor-widget-spacer" data-id="6eead11d" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-24adc790 elementor-widget elementor-widget-heading" data-id="24adc790" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Why choose us?</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2aada93a ot-layout_block elementor-section-height-min-height elementor-section-items-top elementor-section-content-top elementor-section-boxed elementor-section-height-default" data-id="2aada93a" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-270ba073 ot-flex-column-vertical" data-id="270ba073" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-dde16ab elementor-view-default elementor-widget elementor-widget-icon" data-id="dde16ab" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none"><g clip-path="url(#clip0_5162_12909)"><path d="M6.37641 30.6645C6.7645 31.0575 7.39765 31.0614 7.79059 30.6733L14.194 24.349C14.5869 23.9609 14.5908 23.3278 14.2027 22.9348C13.8147 22.5419 13.1815 22.5379 12.7886 22.926L7.09667 28.5476L1.47506 22.8558C1.08697 22.4628 0.453821 22.4589 0.0608785 22.847C-0.332064 23.2351 -0.335996 23.8682 0.0520947 24.2612L6.37641 30.6645ZM7.21492 9.50975L8.2149 9.51597L7.21492 9.50975ZM8.17004 8.56516L8.16517 9.56515L8.17004 8.56516ZM7.08789 29.9618L8.08787 29.968L8.2149 9.51597L7.21492 9.50975L6.21494 9.50354L6.08791 29.9556L7.08789 29.9618ZM8.17004 8.56516L8.16517 9.56515L37.9185 9.70993L37.9233 8.70995L37.9282 7.70996L8.1749 7.56517L8.17004 8.56516ZM7.21492 9.50975L8.2149 9.51597C8.21473 9.54327 8.19248 9.56528 8.16517 9.56515L8.17004 8.56516L8.1749 7.56517C7.09871 7.55994 6.22163 8.42735 6.21494 9.50354L7.21492 9.50975Z" fill="#001B3B"></path><path d="M49.9771 25.3355C49.589 24.9425 48.9559 24.9386 48.5629 25.3267L42.1596 31.651C41.7666 32.0391 41.7627 32.6722 42.1508 33.0652C42.5389 33.4581 43.172 33.4621 43.565 33.074L49.2568 27.4524L54.8785 33.1442C55.2665 33.5372 55.8997 33.5411 56.2926 33.153C56.6856 32.7649 56.6895 32.1318 56.3014 31.7388L49.9771 25.3355ZM49.1386 46.4902L48.1386 46.484L49.1386 46.4902ZM48.1835 47.4348L48.1883 46.4349L48.1835 47.4348ZM49.2656 26.0382L48.2656 26.032L48.1386 46.484L49.1386 46.4902L50.1386 46.4965L50.2656 26.0444L49.2656 26.0382ZM48.1835 47.4348L48.1883 46.4349L18.435 46.2901L18.4302 47.2901L18.4253 48.29L48.1786 48.4348L48.1835 47.4348ZM49.1386 46.4902L48.1386 46.484C48.1388 46.4567 48.161 46.4347 48.1883 46.4349L48.1835 47.4348L48.1786 48.4348C49.2548 48.4401 50.1319 47.5726 50.1386 46.4965L49.1386 46.4902Z" fill="#001B3B"></path><circle cx="49" cy="4" r="3" fill="white" stroke="#001B3B" stroke-width="2"></circle><path d="M49.0889 10.4395C50.0232 10.4395 51.1796 10.7923 52.3203 11.293C53.4392 11.784 54.4439 12.3722 55.0459 12.749C55.1174 12.7938 55.1768 12.8843 55.1768 13.0127V16.624C55.1768 16.8315 55.0091 16.9998 54.8018 17H43.376C43.1684 17 43 16.8316 43 16.624V13.0127C43 12.8844 43.0595 12.7938 43.1309 12.749C43.7328 12.3722 44.7385 11.7841 45.8574 11.293C46.998 10.7924 48.1546 10.4395 49.0889 10.4395Z" fill="white" stroke="#001B3B" stroke-width="2"></path><circle cx="7" cy="40" r="3" fill="white" stroke="#001B3B" stroke-width="2"></circle><path d="M7.08887 46.4395C8.02319 46.4395 9.17965 46.7923 10.3203 47.293C11.4392 47.784 12.4439 48.3722 13.0459 48.749C13.1174 48.7938 13.1768 48.8843 13.1768 49.0127V52.624C13.1768 52.8315 13.0091 52.9998 12.8018 53H1.37598C1.16843 53 1 52.8316 1 52.624V49.0127C1 48.8844 1.05948 48.7938 1.13086 48.749C1.73282 48.3722 2.73849 47.7841 3.85742 47.293C4.99805 46.7924 6.15462 46.4395 7.08887 46.4395Z" fill="white" stroke="#001B3B" stroke-width="2"></path></g><defs><clipPath id="clip0_5162_12909"><rect width="56" height="56" fill="white"></rect></clipPath></defs></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6a35cb5f elementor-widget elementor-widget-spacer" data-id="6a35cb5f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6283ca77 elementor-widget elementor-widget-heading" data-id="6283ca77" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">A hosting partner for life</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-38950dd6 elementor-widget elementor-widget-spacer" data-id="38950dd6" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-78ae7ca0 elementor-widget elementor-widget-text-editor" data-id="78ae7ca0" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>With some of the highest customer retention rates in the industry, many of our customers have been with us since day one.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3848d085 ot-flex-column-vertical" data-id="3848d085" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a4341d1 elementor-view-default elementor-widget elementor-widget-icon" data-id="5a4341d1" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="56" viewBox="0 0 56 56" width="56"><g stroke="#001b3b" stroke-linejoin="round" stroke-width="2"><path d="m24.5 42h12.25v10.5l10.5-10.5h7v-38.5h-52.5v1.75"></path><path d="m36.75 10.5h-35v24.5h10.5v10.5l10.5-10.5h14z"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1a5dae4e elementor-widget elementor-widget-spacer" data-id="1a5dae4e" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7add64b2 elementor-widget elementor-widget-heading" data-id="7add64b2" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Expert support team</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f22ae5f elementor-widget elementor-widget-spacer" data-id="6f22ae5f" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-12ee5871 elementor-widget elementor-widget-text-editor" data-id="12ee5871" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>We care about your business as much as you do, that’s why we go above and beyond to create solutions tailored to your needs.</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-28b07cbe ot-flex-column-vertical" data-id="28b07cbe" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6a54af5f elementor-view-default elementor-widget elementor-widget-icon" data-id="6a54af5f" data-element_type="widget" data-e-type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<div class="elementor-icon">
+			<svg xmlns="http://www.w3.org/2000/svg" fill="none" height="56" viewBox="0 0 56 56" width="56"><g stroke="#001b3b" stroke-linejoin="round" stroke-width="2"><path d="m54.25 1.75h-52.5v17.5h52.5z"></path><path d="m1.75 36.75v-17.5h52.5v17.5"></path><path d="m29.75 54.25h-28v-17.5h29.75"></path><path d="m17.5 10.5h-10.5"></path><path d="m8.75 28h31.5"></path><path d="m43.75 28h3.5"></path><path d="m8.75 45.5h3.5"></path><path d="m15.75 45.5h3.5"></path><path d="m22.75 45.5h3.5"></path><path d="m21 10.5h3.5"></path><path d="m28 10.5h3.5"></path><path d="m35 10.5h3.5"></path><path d="m42 10.5h3.5"></path><path d="m33.25 49 5.25-5.25 5.25 5.25 8.75-8.75"></path></g></svg>			</div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-20753720 elementor-widget elementor-widget-spacer" data-id="20753720" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6497ae75 elementor-widget elementor-widget-heading" data-id="6497ae75" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Fastest route network</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-15e5c97c elementor-widget elementor-widget-spacer" data-id="15e5c97c" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-172f0c3 elementor-widget elementor-widget-text-editor" data-id="172f0c3" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Our network works as hard as we do, dynamically providing the fastest route every time.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2c1a51f2 ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c1a51f2" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4daefae6 ot-flex-column-vertical" data-id="4daefae6" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2a1654a9 elementor-widget elementor-widget-heading" data-id="2a1654a9" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h6 class="elementor-heading-title elementor-size-default">testimonials</h6>				</div>
+				</div>
+				<div class="elementor-element elementor-element-340e5653 elementor-widget elementor-widget-spacer" data-id="340e5653" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-79d50755 elementor-widget elementor-widget-heading" data-id="79d50755" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">See what our clients have to say</h2>				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-741a49c ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="741a49c" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ae3faf5 ot-flex-column-vertical" data-id="ae3faf5" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-48b97c4 elementor-widget elementor-widget-itestimonials3" data-id="48b97c4" data-element_type="widget" data-e-type="widget" data-widget_type="itestimonials3.default">
+				<div class="elementor-widget-container">
+					
+		<div class="ot-testimonials-3">						
+			<div class="testimonial-inner ot-testimonials-slider-3" data-arrow="true">
+								<div>
+					<div class="testi-item">
+						<div class="ttext">
+				        	“So I had one small problem but your awesome tech support guys found the issue and taught me something new about our software. 🙂 Send my thanks to the guys so far I love the server works better than I expected.”				        </div>
+						<div class="t-head">
+				        	<div class="tinfo">
+				        		<h6>Don Wiliams</h6>
+				        						        	</div>
+			        	</div>
+				        
+		        	</div>
+				</div>
+								<div>
+					<div class="testi-item">
+						<div class="ttext">
+				        	“I’ve been using Gigenet for about 18 months, and I’ve never had a better experience with another datacenter. They provide extremely high levels of service.”				        </div>
+						<div class="t-head">
+				        	<div class="tinfo">
+				        		<h6>Scott Kennedy</h6>
+				        						        	</div>
+			        	</div>
+				        
+		        	</div>
+				</div>
+								<div>
+					<div class="testi-item">
+						<div class="ttext">
+				        	"We received a large DDoS attack causing it to go offline. Our hosting provider at the time was unable to stop the attacks for 2 days. GigeNET got our site up within hours of contacting them and WE STAYED UP!!! We now host ALL of our services exclusively with GigeNET!"				        </div>
+						<div class="t-head">
+				        	<div class="tinfo">
+				        		<h6>freecodesource. com</h6>
+				        						        	</div>
+			        	</div>
+				        
+		        	</div>
+				</div>
+							</div>
+							<div class="pagingInfo"></div>
+				    </div>
+
+	    				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+
+	</div><!-- #content -->
+	<footer id="site-footer" class="site-footer" itemscope="itemscope" itemtype="http://schema.org/WPFooter">		<div data-elementor-type="wp-post" data-elementor-id="1334" class="elementor elementor-1334">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-6508575e ot-traditional elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6508575e" data-element_type="section" data-e-type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5587c4ca ot-flex-column-vertical" data-id="5587c4ca" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-section elementor-inner-section elementor-element elementor-element-186bd516 elementor-section-full_width ot-traditional elementor-section-height-default elementor-section-height-default" data-id="186bd516" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-18c5c13c ot-flex-column-vertical" data-id="18c5c13c" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2e20d29 elementor-widget elementor-widget-image" data-id="2e20d29" data-element_type="widget" data-e-type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="148" height="40" src="https://www.gigenet.com/wp-content/uploads/2020/01/Logo.svg" class="attachment-full size-full wp-image-13581" alt="" srcset="https://www.gigenet.com/wp-content/uploads/Logo.svg 150w, https://www.gigenet.com/wp-content/uploads/Logo.svg 300w, https://www.gigenet.com/wp-content/uploads/Logo.svg 768w, https://www.gigenet.com/wp-content/uploads/Logo.svg 1024w, https://www.gigenet.com/wp-content/uploads/Logo.svg 148w" sizes="(max-width: 148px) 100vw, 148px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-1f2e614b elementor-widget__width-initial elementor-hidden-mobile elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1f2e614b" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="#">
+
+											<span class="elementor-icon-list-text">545 E. Algonquin Road<br> Suite D<br>Arlington Heights, IL 60005</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7fb3e96 elementor-hidden-mobile elementor-widget elementor-widget-spacer" data-id="7fb3e96" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-89c7d18 elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="89c7d18" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Toll Free: <strong><span style="color: #5cc7ff;">(800) 561-2656</span></strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-a72d59e elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="a72d59e" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Sales: <strong><span style="color: #5cc7ff;">(800) 561-2656</span></strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2f4f582 elementor-hidden-mobile elementor-widget elementor-widget-text-editor" data-id="2f4f582" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Email: <strong><span style="color: #5cc7ff;"><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="25564449405665424c42404b40510b464a48">[email&#160;protected]</a></span></strong></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-4368c1a elementor-hidden-mobile elementor-widget elementor-widget-spacer" data-id="4368c1a" data-element_type="widget" data-e-type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-125edd59 ot-flex-column-vertical" data-id="125edd59" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-79516437 elementor-widget elementor-widget-heading" data-id="79516437" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Products</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7a61e2c6 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7a61e2c6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/chicago-colocation/">
+
+											<span class="elementor-icon-list-text">Colocation</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/dedicated-servers/">
+
+											<span class="elementor-icon-list-text">Dedicated servers</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/cloud-servers/about">
+
+											<span class="elementor-icon-list-text">Virtual private servers</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/custom-quote/">
+
+											<span class="elementor-icon-list-text">Custom Quote</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-69dac12b ot-flex-column-vertical" data-id="69dac12b" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6f681dab elementor-widget elementor-widget-heading" data-id="6f681dab" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Resources</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-dcdc7f6 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="dcdc7f6" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/blog/">
+
+											<span class="elementor-icon-list-text">Blog</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/legal/privacy-statement/">
+
+											<span class="elementor-icon-list-text">Privacy policy</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/legal/sla/">
+
+											<span class="elementor-icon-list-text">Service Level Agreement (SLAs)</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/legal/terms-of-service/">
+
+											<span class="elementor-icon-list-text">Terms of Service</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/resources/">
+
+											<span class="elementor-icon-list-text">White papers</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-98445cf ot-flex-column-vertical" data-id="98445cf" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-89c76e4 elementor-widget elementor-widget-heading" data-id="89c76e4" data-element_type="widget" data-e-type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h5 class="elementor-heading-title elementor-size-default">Why GigeNET?</h5>				</div>
+				</div>
+				<div class="elementor-element elementor-element-1e52441 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="1e52441" data-element_type="widget" data-e-type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+							<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<a href="/about/">
+
+											<span class="elementor-icon-list-text">About us</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/about/customer-experiences/">
+
+											<span class="elementor-icon-list-text">Our customers</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/managed-servers/">
+
+											<span class="elementor-icon-list-text">Managed services</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/affiliates/">
+
+											<span class="elementor-icon-list-text">Affiliate program</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<a href="/careers/">
+
+											<span class="elementor-icon-list-text">Careers</span>
+											</a>
+									</li>
+						</ul>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+				<div class="elementor-element elementor-element-0f225bf elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="0f225bf" data-element_type="widget" data-e-type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-social-icons-wrapper elementor-grid" role="list">
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-a59f89c" href="https://www.facebook.com/GigeNETServers/?ref=br_rs" target="_blank">
+						<span class="elementor-screen-only">Facebook</span>
+						<i aria-hidden="true" class="fab fa-facebook"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-1287a57" href="https://twitter.com/gigenet" target="_blank">
+						<span class="elementor-screen-only">Twitter</span>
+						<i aria-hidden="true" class="fab fa-twitter"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-cb3f94f" href="https://www.youtube.com/c/Gigenet" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i aria-hidden="true" class="fab fa-youtube"></i>					</a>
+				</span>
+							<span class="elementor-grid-item" role="listitem">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-e1fff4d" href="https://www.linkedin.com/company/gigenet" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i aria-hidden="true" class="fab fa-linkedin"></i>					</a>
+				</span>
+					</div>
+						</div>
+				</div>
+				<div class="elementor-section elementor-inner-section elementor-element elementor-element-6b33d5f7 elementor-section-full_width elementor-section-content-middle ot-traditional elementor-section-height-default elementor-section-height-default" data-id="6b33d5f7" data-element_type="section" data-e-type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-98aa355 ot-flex-column-vertical" data-id="98aa355" data-element_type="column" data-e-type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8594bd9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8594bd9" data-element_type="widget" data-e-type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-34acc483 elementor-widget elementor-widget-text-editor" data-id="34acc483" data-element_type="widget" data-e-type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p style="text-align: center;">Copyright 2025 GigeNET</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-8705407 elementor-widget elementor-widget-html" data-id="8705407" data-element_type="widget" data-e-type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					<!-- Start of LiveChat (www.livechat.com) code -->
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="24e484891237cdb31056c335-text/javascript">
+    window.__lc = window.__lc || {};
+    window.__lc.license = 1143701;
+    window.__lc.integration_name = "manual_channels";
+    window.__lc.product_name = "livechat";
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechat.com/chat-with/1143701/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		</footer></div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/engitech-child/*","/wp-content/themes/engitech/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- HFCM by 99 Robots - Snippet # 1: Hubspot -->
+<!-- Start of HubSpot Embed Code -->
+<script id="hs-script-loader" async defer src="//js.hs-scripts.com/23136167.js" type="24e484891237cdb31056c335-text/javascript"></script>
+<!-- End of HubSpot Embed Code -->
+<!-- /end HFCM by 99 Robots -->
+<a id="back-to-top" href="#" class="show"><i class="flaticon-up-arrow"></i></a>			<script type="24e484891237cdb31056c335-text/javascript">
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='elementor-post-2843-css' href='https://www.gigenet.com/wp-content/uploads/elementor/css/post-2843.css?ver=1776804703' media='all' />
+<link rel='stylesheet' id='elementor-post-4905-css' href='https://www.gigenet.com/wp-content/uploads/elementor/css/post-4905.css?ver=1776804703' media='all' />
+<link rel='stylesheet' id='elementor-post-1334-css' href='https://www.gigenet.com/wp-content/uploads/elementor/css/post-1334.css?ver=1776804732' media='all' />
+<link rel='stylesheet' id='widget-social-icons-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='e-apple-webkit-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=4.0.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://www.gigenet.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<script src="https://www.gigenet.com/wp-includes/js/dist/hooks.min.js?ver=dd5603f07f9220ed27f1" id="wp-hooks-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-includes/js/dist/i18n.min.js?ver=c26c3dc7bed366793375" id="wp-i18n-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="wp-i18n-js-after" type="24e484891237cdb31056c335-text/javascript">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+//# sourceURL=wp-i18n-js-after
+</script>
+<script src="https://www.gigenet.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.5" id="swv-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="contact-form-7-js-before" type="24e484891237cdb31056c335-text/javascript">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.gigenet.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+//# sourceURL=contact-form-7-js-before
+</script>
+<script src="https://www.gigenet.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.5" id="contact-form-7-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="leadin-script-loader-js-js-extra" type="24e484891237cdb31056c335-text/javascript">
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"11.3.45"};
+//# sourceURL=leadin-script-loader-js-js-extra
+</script>
+<script src="https://js.hs-scripts.com/23136167.js?integration=WordPress&amp;ver=11.3.45" id="leadin-script-loader-js-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/jquery.magnific-popup.min.js?ver=20180910" id="magnific-popup-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/jquery.isotope.min.js?ver=20190829" id="isotope-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/slick.min.js?ver=20180910" id="slick-slider-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/easypiechart.min.js?ver=20190829" id="easypiechart-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/jquery.countdown.min.js?ver=20180910" id="countdown-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/elementor.js?ver=20180910" id="engitech-elementor-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/elementor-header.js?ver=20180910" id="engitech-elementor-header-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/scripts.js?ver=20180910" id="engitech-scripts-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/themes/engitech/js/header-mobile.js?ver=20180910" id="engitech-header-mobile-scripts-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.0.3" id="elementor-webpack-runtime-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.0.3" id="elementor-frontend-modules-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="elementor-frontend-js-extra" type="24e484891237cdb31056c335-text/javascript">
+var EAELImageMaskingConfig = {"svg_dir_url":"https://www.gigenet.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/image-masking/svg-shapes/"};
+//# sourceURL=elementor-frontend-js-extra
+</script>
+<script id="elementor-frontend-js-before" type="24e484891237cdb31056c335-text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},
+"hasCustomBreakpoints":false},"version":"4.0.3","is_static":false,"experimentalFeatures":{"additional_custom_breakpoints":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"e_opt_in_v4_page":true,"e_components":true,"e_interactions":true,"e_widget_creation":true,"import-export-customization":true},"urls":{"assets":"https:\/\/www.gigenet.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/www.gigenet.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/www.gigenet.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"fc3d2cf96f","atomicFormsSendForm":"4efbdbe5b8"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6088,"title":"GigeNET%20%E2%80%93%20Cloud%20Hosting%2C%20Dedicated%20Servers%20%26%20DDoS%20Protection","excerpt":"","featuredImage":false}};
+//# sourceURL=elementor-frontend-js-before
+</script>
+<script src="https://www.gigenet.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.0.3" id="elementor-frontend-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-contact-form-7-83c32a029ed2cf5b6a82.js" id="googlesitekit-events-provider-contact-form-7-js" defer type="24e484891237cdb31056c335-text/javascript"></script>
+<script src="https://www.gigenet.com/wp-content/plugins/google-site-kit/dist/assets/js/googlesitekit-events-provider-wpforms-08f4a4ca33532233b542.js" id="googlesitekit-events-provider-wpforms-js" defer type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="eael-general-js-extra" type="24e484891237cdb31056c335-text/javascript">
+var localize = {"ajaxurl":"https://www.gigenet.com/wp-admin/admin-ajax.php","nonce":"f3351e7ca6","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https://www.gigenet.com/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
+//# sourceURL=eael-general-js-extra
+</script>
+<script src="https://www.gigenet.com/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.6.2" id="eael-general-js" type="24e484891237cdb31056c335-text/javascript"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.gigenet.com/wp-includes/js/wp-emoji-release.min.js?ver=6.9.4"}}
+</script>
+<script type="24e484891237cdb31056c335-module">
+/*! This file is auto-generated */
+const a=JSON.parse(document.getElementById("wp-emoji-settings").textContent),o=(window._wpemojiSettings=a,"wpEmojiSettingsSupports"),s=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const a=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===a[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,a){let r;const o=(r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),s=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(e=>{s[e]=t(o,e,n,a)}),s}function r(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}a.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),c.toString(),p.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"});const r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=e=>{i(n=e.data),r.terminate(),t(n)})}catch(e){}i(n=f(s,u,c,p))}t(n)}).then(e=>{for(const n in e)a.supports[n]=e[n],a.supports.everything=a.supports.everything&&a.supports[n],"flag"!==n&&(a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&a.supports[n]);var t;a.supports.everythingExceptFlag=a.supports.everythingExceptFlag&&!a.supports.flag,a.supports.everything||((t=a.source||{}).concatemoji?r(t.concatemoji):t.wpemoji&&t.twemoji&&(r(t.twemoji),r(t.wpemoji)))});
+//# sourceURL=https://www.gigenet.com/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+<script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="24e484891237cdb31056c335-|49" defer></script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Object Caching 62/88 objects using Redis
+Page Caching using Memcache 
+Fragment Caching 10/11 fragments using Redis
+
+Served from: www.gigenet.com @ 2026-04-28 23:59:03 by W3 Total Cache
+-->
