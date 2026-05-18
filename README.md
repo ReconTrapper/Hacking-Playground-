@@ -28,16 +28,24 @@ If you want to start hacking immediately without heavy setup, provision these lo
 * 🛡️ **SickOs 1.1 Target (SickOs_1_1)**: Deploy this classic intermediate boot-to-root machine to practice shell hunting, proxy server misconfigurations, and reverse-routing vectors.
 * 🐧 **Kioptrix Level 1 Target (Kioptrix_Level_1)**: Fire up the tiny legacy Linux box. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Target its legacy Samba and Apache web stacks.
 
-### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS)
-If you want to build a high-density corporate enterprise emulation matrix:
+### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS Manual Setup)
+If you want to build a high-density corporate enterprise emulation matrix manually:
 * 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO inside your `Windows-Lab` staging workspace.
-* 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: `./04-Source-Code/Provision-Lab-Domain.ps1` to instantly stand up the `trapped.local` root forest.
-* 🩸 **Step 3**: Download the [BadBlood Framework](https://github.com) inside the Server VM and execute `.\Invoke-BadBlood.ps1` to automatically flood the directory database with thousands of test accounts.
+* 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: `./04-Source-Code/Provision-Lab-Domain.ps1` to stand up the `trapped.local` root forest.
+* 🩸 **Step 3**: Download BadBlood inside the VM and execute `.\Invoke-BadBlood.ps1` to fill the database with test accounts.
+
+### 🤖 Option C: The One-Click Infrastructure-as-Code Setup (Vagrant App)
+The ultimate beginner option! If you want your entire hacking range to build, configure, and connect itself automatically with zero manual steps:
+1. Download and install [Vagrant by HashiCorp](https://hashicorp.com).
+2. Open your terminal inside your cloned repository root folder.
+3. Type exactly **one command** and watch the full lab range orchestrate itself:
+```bash
+vagrant up
+```
 
 ---
 
 ## 🛡️ Core Architecture: Isolation, Safety, & Licensing
-
 * 🆓 **Zero-Cost Enterprise Engineering**: Built entirely utilizing official 180-day Microsoft Evaluation ISOs, open-source Linux appliances, and free community testing frameworks. No commercial licensing required.
 * ☣️ **Strict Air-Gapped Sandbox Safety**: Hard-locked inside a private virtual network segment (**LabNet / 10.0.2.0/24**). It has no exposure or bridge to your physical Home LAN, providing a 100% safe environment to detonate malware, execute noisy fuzzing scripts, and run aggressive exploits.
 * 💻 **Host Hardware Coexistence**: Specially aligned to utilize the Windows Hypervisor Platform (WHv) and Hyper-V paravirtualization provider interface. This allows high-speed virtualization testing while keeping **Windows 11 Core Isolation / Memory Integrity** fully active.
@@ -45,22 +53,16 @@ If you want to build a high-density corporate enterprise emulation matrix:
 ---
 
 ## 🎯 Active Lab Target Capabilities & Hacking Matrices
-
 ### 1. 🌲 Active Directory Enterprise Range (trapped.local | 10.0.2.8)
 * **Infrastructure:** Windows Server 2025 Standard Evaluation Active Directory Domain Services (AD-DS) Forest.
 * **Target Density:** ~2,500 fuzzed users, organizational units (OUs), computers, and nested security groups via the BadBlood framework.
-* **Exploitation Matrix:** Used to train in Active Directory post-exploitation attacks:
-  * **Credential Hunting**: Password spraying, brute-forcing, and brute-forcing dictionaries.
-  * **Kerberos Attacks**: AS-REP Roasting, Kerberoasting, and Silver/Golden ticket creation.
-  * **Privilege Escalation**: Mapping complex object access paths with **BloodHound-python** and exploiting vulnerable Access Control Entries (ACEs).
+* **Exploitation Matrix:** Credential Hunting (Password spraying, brute-forcing), Kerberos Attacks (AS-REP/Kerberoasting), and Privilege Escalation mapping via **BloodHound-python**.
 
 ### 2. 🌐 DC-1 Web Application Target (10.0.2.5)
-* **Infrastructure:** Linux-based imported target web server.
-* **Exploitation Matrix:** Dedicated to practicing Web App penetration testing, CMS enumeration, exploiting vulnerable **Drupal core software**, executing remote code execution (RCE), and hunting for local root privilege escalation paths.
+* **Infrastructure:** Linux-based imported target web server running vulnerable **Drupal core software** for Remote Code Execution (RCE) training.
 
 ### 🐧 3. Kioptrix Level 1 Legacy Target
-* **Infrastructure:** Legacy Linux Boot-to-Root operating system (Remapped to an IDE storage controller to bypass SATA kernel panics).
-* **Exploitation Matrix:** Focused on basic network service scanning, banner grabbing, and exploiting legacy service vulnerabilities (Samba, Apache, OpenSSL).
+* **Infrastructure:** Legacy Linux Boot-to-Root operating system optimized for old-school Samba/Apache service enumeration.
 
 ---
 
@@ -68,10 +70,7 @@ If you want to build a high-density corporate enterprise emulation matrix:
 * 📂 **01-Hypervisors/**: VirtualBox hardware settings, optimization parameters, and Core Isolation safety mappings.
 * 📂 **02-ISO-Archive/**: Local storage structures caching system installation media.
 * 📂 **03-Active-VMs/**: Running lab ranges (`Kali-Control/`, `Meta-Target/`, `Web-Target/`, `Windows-Lab/`).
-* 📂 **04-Source-Code/**: Production-ready automated tools:
-  * [`Provision-Lab-Domain.ps1`]: Automated AD-DS forest generator script.
-  * [`AD-DS-Lab-Setup.md`]: Deep technical build guide documentation.
-  * `Recon-Scanners/`: Custom network automation tools, including `ping_sweeper.py`.
+* 📂 **04-Source-Code/**: Production-ready automated tools.
 
 ---
 *Maintained globally by **ReconTrapper**. Engineered exclusively for legal, ethical, and advanced security research.*
