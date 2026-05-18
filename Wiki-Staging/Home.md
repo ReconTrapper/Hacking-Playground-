@@ -8,3 +8,4 @@ This centralized Wiki documents the step-by-step engineering setups, technical i
 
 ---
 *Maintained globally by ReconTrapper. Verified deployment tracking active.*
+- [[Cross-Platform-Loot-&-Password-Vault-Automation-Framework]]
