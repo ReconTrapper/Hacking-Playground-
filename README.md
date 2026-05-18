@@ -24,15 +24,20 @@ cd 04-Source-Code
 
 ### ⚡ Option A: The Fast & Lightweight Start (Linux & Boot-to-Root Catalog)
 If you want to start hacking immediately without heavy setup, provision these localized pre-built appliances:
-* 🌐 **DC-1 Target (DC_1_Target)**: Boot up the Drupal web application instance. Map it to your subnet at `10.0.2.5` and use Kali to identify and exploit its CMS core vulnerabilities.
+* 🌐 **DC-1 Target (DC_1_Target)**: Boot up the Drupal web application instance. Map it to your subnet at `10.0.2.5` and use Kali to identify and exploit its CMS core vulnerabilities. 
+  * 📥 **Download Link**: [Official VulnHub DC-1 Mirror](https://download.vulnhub.com/dc/DC-1.zip)
 * 🛡️ **SickOs 1.1 Target (SickOs_1_1)**: Deploy this classic intermediate boot-to-root machine to practice shell hunting, proxy server misconfigurations, and reverse-routing vectors.
+  * 📥 **Download Link**: [Official VulnHub SickOs 1.1 Mirror](https://download.vulnhub.com/sickos/sick0s1.1.7z)
 * 🐧 **Kioptrix Level 1 Target (Kioptrix_Level_1)**: Fire up the tiny legacy Linux box. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Target its legacy Samba and Apache web stacks.
+  * 📥 **Download Link**: [Official VulnHub Kioptrix Entry](https://vulnhub.com)
 
 ### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS Manual Setup)
 If you want to build a high-density corporate enterprise emulation matrix manually:
 * 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO inside your `Windows-Lab` staging workspace.
+  * 📥 **Download Link**: [Official Microsoft Evaluation Center](https://microsoft.com)
 * 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: `./04-Source-Code/Provision-Lab-Domain.ps1` to stand up the `trapped.local` root forest.
 * 🩸 **Step 3**: Download BadBlood inside the VM and execute `.\Invoke-BadBlood.ps1` to fill the database with test accounts.
+  * 📥 **Download Link**: [Official Davidprowe/BadBlood Repository](https://github.com)
 
 ### 🤖 Option C: The One-Click Infrastructure-as-Code Setup (Vagrant App)
 The ultimate beginner option! This allows your laptop to automatically pull the installation binaries, download the orchestrator engine without accounts, configure the private networks, and connect everything with zero manual steps.
