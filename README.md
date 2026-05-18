@@ -4,6 +4,22 @@ A 100% free, legally sandboxed, and completely isolated multi-system penetration
 
 ---
 
+## 🟢 New to Labs? Start Here! (Beginner's Quick Start)
+
+Building a complete hacking range can feel overwhelming, but you can get this entire lab up and running by following these **3 Simple Milestones**:
+
+* 🛠️ **Milestone 1: Prepare Your Laptop**
+  - Download [VirtualBox](https://virtualbox.org) and a free [Windows Server 2025 Evaluation ISO](https://microsoft.com). 
+  - Turn off **Memory Integrity** in your Windows Security settings so your laptop can give VirtualBox direct hardware access.
+* 🌲 **Milestone 2: Spin Up Your Target Domain**
+  - Create a new Windows Server VM, mount your ISO, and install the OS.
+  - Open PowerShell inside your new Server and run our automated script: [./04-Source-Code/Provision-Lab-Domain.ps1](./04-Source-Code/Provision-Lab-Domain.ps1). Your domain controller is now active!
+* 🩸 **Milestone 3: Populate and Attack**
+  - Download the [BadBlood Framework](https://github.com) inside your Server VM and run .\Invoke-BadBlood.ps1 to fill your domain with thousands of test users automatically.
+  - Link your **Kali Linux VM** to the same private network switch and start hacking!
+
+---
+
 ## 🛡️ Core Architecture: Isolation, Safety, & Licensing
 
 * 🆓 **Zero-Cost Enterprise Engineering**: Built entirely utilizing official 180-day Microsoft Evaluation ISOs, open-source Linux appliances, and free community testing frameworks. No commercial licensing required.
