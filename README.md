@@ -11,7 +11,7 @@ If you do not have this repository on your laptop yet, open **PowerShell** (on W
 
 ```bash
 # 1. Clone the entire repository to your local machine cleanly
-git clone https://github.com/ReconTrapper/Hacking-Playground-.git
+git clone https://github.com
 
 # 2. Enter the project workspace folder
 cd Hacking-Playground-
@@ -37,7 +37,7 @@ If you want to start hacking immediately without heavy setup, provision these lo
 
 ### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS Manual Setup)
 If you want to build a high-density corporate enterprise emulation matrix manually:
-* 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO inside your `Windows-Lab` staging workspace.
+* 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 3 CPU cores and 128MB VRAM using a free Evaluation ISO inside your `Windows-Lab` staging workspace.
   * 📥 **Download Link**: [Official Microsoft Evaluation Center](https://microsoft.com)
 * 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: `./04-Source-Code/Provision-Lab-Domain.ps1` to stand up the `trapped.local` root forest.
 * 🩸 **Step 3**: Download BadBlood inside the VM and execute `.\Invoke-BadBlood.ps1` to fill the database with test accounts.
@@ -62,6 +62,19 @@ vagrant up
 * 🆓 **Zero-Cost Enterprise Engineering**: Built entirely utilizing official 180-day Microsoft Evaluation ISOs, open-source Linux appliances, and free community testing frameworks. No commercial licensing required.
 * ☣️ **Strict Air-Gapped Sandbox Safety**: Hard-locked inside a private virtual network segment (**LabNet / 10.0.2.0/24**). It has no exposure or bridge to your physical Home LAN, providing a 100% safe environment to detonate malware, execute noisy fuzzing scripts, and run aggressive exploits.
 * 💻 **Host Hardware Coexistence**: Specially aligned to utilize the Windows Hypervisor Platform (WHv) and Hyper-V paravirtualization provider interface. This allows high-speed virtualization testing while keeping **Windows 11 Core Isolation / Memory Integrity** fully active.
+
+---
+
+## 📊 Weaponized Kali Linux Tool Matrix
+
+
+| Phase Vector | Target Systems | Specialized Kali Hacking Tools | Primary Attack Capability |
+| :--- | :--- | :--- | :--- |
+| **Reconnaissance** | All Active Nodes | `nmap`, `fping` | Live host verification & port service sweeping |
+| **Web App Audit** | `DC_1_Target`, `SickOs_1_1` | `gobuster`, `nikto`, `wpscan` | Hidden asset fuzzing & directory traversal leaks |
+| **AD-DS Exploitation** | `trapped.local` (10.0.2.8) | `crackmapexec`, `netexec`, `impacket` | Multi-threaded password spraying & AS-REP ticket roasting |
+| **Path Graphing** | `trapped.local` (10.0.2.8) | `bloodhound-python` | Graphing active access control control loops |
+| **Loot Architecture** | All Lab Credentials | `keepassxc-cli`, `Add-Loot.ps1` | Offline vault injection & credential tracking |
 
 ---
 
