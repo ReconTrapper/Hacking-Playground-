@@ -11,7 +11,7 @@ If you do not have this repository on your laptop yet, open **PowerShell** (on W
 
 ```bash
 # 1. Clone the entire repository to your local machine cleanly
-git clone https://github.com
+git clone https://github.com/ReconTrapper/Hacking-Playground-.git
 
 # 2. Enter the project workspace folder
 cd Hacking-Playground-
@@ -25,11 +25,15 @@ cd 04-Source-Code
 ### ⚡ Option A: The Fast & Lightweight Start (Linux & Boot-to-Root Catalog)
 If you want to start hacking immediately without heavy setup, provision these localized pre-built appliances:
 * 🌐 **DC-1 Target (DC_1_Target)**: Boot up the Drupal web application instance. Map it to your subnet at `10.0.2.5` and use Kali to identify and exploit its CMS core vulnerabilities. 
-  * 📥 **Download Link**: [Official VulnHub DC-1 Mirror](https://download.vulnhub.com/dc/DC-1.zip)
+  * 📥 **Download Link**: [Official VulnHub DC-1 Mirror](https://vulnhub.com)
 * 🛡️ **SickOs 1.1 Target (SickOs_1_1)**: Deploy this classic intermediate boot-to-root machine to practice shell hunting, proxy server misconfigurations, and reverse-routing vectors.
-  * 📥 **Download Link**: [Official VulnHub SickOs 1.1 Mirror](https://download.vulnhub.com/sickos/sick0s1.1.7z)
+  * 📥 **Download Link**: [Official VulnHub SickOs 1.1 Mirror](https://vulnhub.com)
 * 🐧 **Kioptrix Level 1 Target (Kioptrix_Level_1)**: Fire up the tiny legacy Linux box. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Target its legacy Samba and Apache web stacks.
   * 📥 **Download Link**: [Official VulnHub Kioptrix Entry](https://vulnhub.com)
+* 🔑 **Loot Automation Feature**: Once you crack credentials on *any* target above, run our new tool inside your Kali terminal to automatically map and inject passwords straight into your local encrypted vault database:
+  ```powershell
+  pwsh ./04-Source-Code/Add-Loot.ps1
+  ```
 
 ### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS Manual Setup)
 If you want to build a high-density corporate enterprise emulation matrix manually:
@@ -64,7 +68,7 @@ vagrant up
 ## 🎯 Active Lab Target Capabilities & Hacking Matrices
 ### 1. 🌲 Active Directory Enterprise Range (trapped.local | 10.0.2.8)
 * **Infrastructure:** Windows Server 2025 Standard Evaluation Active Directory Domain Services (AD-DS) Forest.
-* **Target Density:** ~2,500 fuzzed users, organizational units (OUs), computers, and nested security groups via the BadBlood framework.
+* **Target Density:** ~2,491 fuzzed users, organizational units (OUs), computers, and nested security groups via the BadBlood framework.
 * **Exploitation Matrix:** Credential Hunting (Password spraying, brute-forcing), Kerberos Attacks (AS-REP/Kerberoasting), and Privilege Escalation mapping via **BloodHound-python**.
 
 ### 2. 🌐 DC-1 Web Application Target (10.0.2.5)
@@ -79,10 +83,10 @@ vagrant up
 * 📂 **01-Hypervisors/**: VirtualBox hardware settings, optimization parameters, and Core Isolation safety mappings.
 * 📂 **02-ISO-Archive/**: Local storage structures caching system installation media.
 * 📂 **03-Active-VMs/**: Running lab ranges (`Kali-Control/`, `Meta-Target/`, `Web-Target/`, `Windows-Lab/`).
-* 📂 **04-Source-Code/**: Production-ready automated tools.
-
----
-*Maintained globally by **ReconTrapper**. Engineered exclusively for legal, ethical, and advanced security research.*
+* 📂 **04-Source-Code/**: Production-ready automated tools:
+  * [`Provision-Lab-Domain.ps1`]: Automated AD-DS forest generator script.
+  * [`Add-Loot.ps1`]: Automated, multi-OS credential ingestion framework for KeePassXC.
+  * [`AD-DS-Lab-Setup.md`]: Deep technical build guide documentation.
 
 ---
 ## 🤖 Engineering & Automation Attribution Disclaimer
