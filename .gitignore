@@ -1,0 +1,40 @@
+# ====================================================================
+# SECURITY LAB PRODUCTION GITIGNORE BLOCKLIST
+# ====================================================================
+
+# Ignore all bulky Virtual Machine hard disk variations completely
+*.vmdk
+*.ova
+*.ovf
+*.iso
+*.img
+*.vdi
+*.vhd
+*.vhdx
+*.qcow2
+
+# Ignore all compressed archive deployment payloads
+*.zip
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Ignore localized VirtualBox operational runtime state data
+*.vbox-prev
+*.log
+.vbox/
+Logs/
+
+# Ignore Python operational cache files inside development directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Ignore local environmental secret variable keys if added later
+.env
