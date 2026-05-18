@@ -1,36 +1,45 @@
-﻿# 🏗️ Multi-Target Penetration Testing & Active Directory Lab Range
+﻿# 🏗️ Multi-Target Cyber Security Sandbox & Automated Hacking Range
 
-An advanced, infrastructure-as-code hacking playground engineered to deploy, provision, and audit an isolated multi-system target range inside a sandboxed hypervisor network.
+A 100% free, legally sandboxed, and completely isolated multi-system penetration testing range engineered to deploy, provision, and attack enterprise-grade network environments inside a hypervisor abstraction layer.
 
-## 🎯 Active Lab Range Ecosystem
+---
 
-This playground hosts multiple distinct target platforms and testing matrices configured across an isolated network segment (**LabNet / 10.0.2.0/24**):
+## 🛡️ Core Architecture: Isolation, Safety, & Licensing
 
-### 1. 🌲 Windows Server 2025 Domain Controller (	rapped.local)
-* **IP Address:** Dynamic DHCP (10.0.2.8)
-* **Status:** Fully operational AD-DS forest.
-* **Fuzzing Architecture:** Aggressively populated with **2,500+ randomized fuzzing objects** (OUs, Users, Groups, and complex ACL maps) via the BadBlood framework to simulate a realistic enterprise network.
+* 🆓 **Zero-Cost Enterprise Engineering**: Built entirely utilizing official 180-day Microsoft Evaluation ISOs, open-source Linux appliances, and free community testing frameworks. No commercial licensing required.
+* ☣️ **Strict Air-Gapped Sandbox Safety**: Hard-locked inside a private virtual network segment (**LabNet / 10.0.2.0/24**). It has no exposure or bridge to your physical Home LAN, providing a 100% safe environment to detonate malware, execute noisy fuzzing scripts, and run aggressive exploits.
+* 💻 **Host Hardware Coexistence**: Specially aligned to utilize the Windows Hypervisor Platform (WHv) and Hyper-V paravirtualization provider interface. This allows high-speed virtualization testing while keeping **Windows 11 Core Isolation / Memory Integrity** fully active.
 
-### 2. 🌐 DC-1 Web Target Application
-* **IP Address:** Static (10.0.2.5)
-* **Status:** Active Drupal web application instance.
-* **Testing Matrix:** Used to practice web exploitation vectors, content management system (CMS) enumeration, and local privilege escalation.
+---
+
+## 🎯 Active Lab Target Capabilities & Hacking Matrices
+
+### 1. 🌲 Active Directory Enterprise Range (	rapped.local | 10.0.2.8)
+* **Infrastructure:** Windows Server 2025 Standard Evaluation Active Directory Domain Services (AD-DS) Forest.
+* **Target Density:** ~2,500 fuzzed users, organizational units (OUs), computers, and nested security groups via the BadBlood framework.
+* **Exploitation Matrix:** Used to train in Active Directory post-exploitation attacks:
+  * **Credential Hunting**: Password spraying, brute-forcing, and brute-forcing dictionaries.
+  * **Kerberos Attacks**: AS-REP Roasting, Kerberoasting, and Silver/Golden ticket creation.
+  * **Privilege Escalation**: Mapping complex object access paths with **BloodHound-python** and exploiting vulnerable Access Control Entries (ACEs).
+
+### 2. 🌐 DC-1 Web Application Target (10.0.2.5)
+* **Infrastructure:** Linux-based imported target web server.
+* **Exploitation Matrix:** Dedicated to practicing Web App penetration testing, CMS enumeration, exploiting vulnerable **Drupal core software**, executing remote code execution (RCE), and hunting for local root privilege escalation paths.
 
 ### 🐧 3. Kioptrix Level 1 Legacy Target
-* **Status:** Active legacy boot-to-root testing target.
-* **Storage Optimization:** Remapped to a custom Controller: IDE architecture to securely bypass legacy SATA kernel panics.
-* **Testing Matrix:** Focused on legacy SMB vulnerability exploitation, configuration weaknesses, and basic network enumeration.
+* **Infrastructure:** Legacy Linux Boot-to-Root operating system (Remapped to an IDE storage controller to bypass SATA kernel panics).
+* **Exploitation Matrix:** Focused on basic network service scanning, banner grabbing, and exploiting legacy service vulnerabilities (Samba, Apache, OpenSSL).
 
 ---
 
-## 🗺️ Repository Directory Structure
-* 📂 **01-Hypervisors/**: Baseline configurations, Hyper-V/Core Isolation alignment configurations, and platform settings.
-* 📂 **02-ISO-Archive/**: Storage architecture maps for operating system evaluation images.
-* 📂 **03-Active-VMs/**: Staging ranges for isolated network nodes (Kali-Control/, Meta-Target/, Web-Target/, Windows-Lab/).
-* 📂 **04-Source-Code/**: Production-ready scripts including:
-  * [Provision-Lab-Domain.ps1](./04-Source-Code/Provision-Lab-Domain.ps1): Automated AD-DS deployment scripts.
-  * [AD-DS-Lab-Setup.md](./04-Source-Code/AD-DS-Lab-Setup.md): Deep technical system setup blueprints.
-  * Recon-Scanners/: Custom Python tools including ping_sweeper.py.
+## 🗺️ Repository Structure
+* 📂 **01-Hypervisors/**: VirtualBox hardware settings, optimization parameters, and Core Isolation safety mappings.
+* 📂 **02-ISO-Archive/**: Local storage structures caching system installation media.
+* 📂 **03-Active-VMs/**: Running lab ranges (Kali-Control/, Meta-Target/, Web-Target/, Windows-Lab/).
+* 📂 **04-Source-Code/**: Production-ready automated tools:
+  * [Provision-Lab-Domain.ps1](./04-Source-Code/Provision-Lab-Domain.ps1): Automated AD-DS forest generator script.
+  * [AD-DS-Lab-Setup.md](./04-Source-Code/AD-DS-Lab-Setup.md): Deep technical build guide documentation.
+  * Recon-Scanners/: Custom network automation tools, including ping_sweeper.py.
 
 ---
-*Maintained globally by **ReconTrapper**. Developed exclusively for advanced offensive and defensive security research.*
+*Maintained globally by **ReconTrapper**. Engineered exclusively for legal, ethical, and advanced security research.*
