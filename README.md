@@ -8,16 +8,17 @@ A 100% free, legally sandboxed, and completely isolated multi-system penetration
 
 Building a complete hacking range can feel overwhelming, but you can get this entire lab up and running by choosing your preferred entry milestone:
 
-### ⚡ Option A: The Fast & Lightweight Start (Linux Targets)
-If you want to start hacking immediately without heavy setup or processing delay:
-* 🌐 **The Web Path (DC-1 Target)**: Boot up the small pre-built DC-1 appliance. Link it to your network at 10.0.2.5 and immediately start using your Kali Linux VM to scan and exploit its vulnerable **Drupal CMS core software**.
-* 🐧 **The Legacy Path (Kioptrix Target)**: Fire up the tiny legacy Kioptrix boot-to-root VM. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Practice basic banner grabbing, service scanning, and old-school Samba service exploitation.
+### ⚡ Option A: The Fast & Lightweight Start (Linux & Boot-to-Root Catalog)
+If you want to start hacking immediately without heavy setup, provision these localized pre-built appliances:
+* 🌐 **DC-1 Target (DC_1_Target)**: Boot up the Drupal web application instance. Map it to your subnet at \10.0.2.5\ and use Kali to identify and exploit its CMS core vulnerabilities.
+* 🛡️ **SickOs 1.1 Target (SickOs_1_1)**: Deploy this classic intermediate boot-to-root machine to practice shell hunting, proxy server misconfigurations, and reverse-routing vectors.
+* 🐧 **Kioptrix Level 1 Target (Kioptrix_Level_1)**: Fire up the tiny legacy Linux box. *(Tip: Remap its drive controller to IDE to bypass modern SATA kernel panics!)* Target its legacy Samba and Apache web stacks.
 
 ### 🌲 Option B: The Advanced Enterprise Start (Windows AD-DS)
 If you want to build a high-density corporate enterprise emulation matrix:
-* 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO.
-* 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: [\./04-Source-Code/Provision-Lab-Domain.ps1\] to instantly stand up the 	rapped.local root forest.
-* 🩸 **Step 3**: Download the [BadBlood Framework](https://github.com) inside the Server VM and execute \.\Invoke-BadBlood.ps1\ to automatically flood the directory database with thousands of test accounts, nested security groups, and hidden attack paths.
+* 🛠️ **Step 1**: Provision a fresh Windows Server 2025 VM with 1 CPU core and 128MB VRAM using a free Evaluation ISO inside your \Windows-Lab\ staging workspace.
+* 🤖 **Step 2**: Open PowerShell inside the server and run our automated generator script: [\./04-Source-Code/Provision-Lab-Domain.ps1\] to instantly stand up the \	rapped.local\ root forest.
+* 🩸 **Step 3**: Download the [BadBlood Framework](https://github.com) inside the Server VM and execute \.\Invoke-BadBlood.ps1\ to automatically flood the directory database with thousands of test accounts.
 
 ---
 
