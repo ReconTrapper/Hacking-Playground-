@@ -83,3 +83,10 @@ vagrant up
 
 ---
 *Maintained globally by **ReconTrapper**. Engineered exclusively for legal, ethical, and advanced security research.*
+
+---
+## 🤖 Engineering & Automation Attribution Disclaimer
+
+* **AI-Assisted Architecture**: The scripts, deployment configurations, markdown blueprints, and interactive Wiki spaces hosted within this laboratory range were programmatically generated and optimized utilizing conversational AI frameworks.
+* **Human-Driven Orchestration**: All virtualization topologies, manual debugging sequences, Git integration states, and hardware boundary alignments were engineered and verified directly by **ReconTrapper**. 
+* **Intent**: Developed exclusively for accelerated educational tracking, ethical research, and high-performance offensive/defensive cybersecurity training paradigms.
