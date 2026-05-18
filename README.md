@@ -35,10 +35,14 @@ If you want to build a high-density corporate enterprise emulation matrix manual
 * 🩸 **Step 3**: Download BadBlood inside the VM and execute `.\Invoke-BadBlood.ps1` to fill the database with test accounts.
 
 ### 🤖 Option C: The One-Click Infrastructure-as-Code Setup (Vagrant App)
-The ultimate beginner option! If you want your entire hacking range to build, configure, and connect itself automatically with zero manual steps:
-1. Download and install [Vagrant by HashiCorp](https://hashicorp.com).
-2. Open your terminal inside your cloned repository root folder.
-3. Type exactly **one command** and watch the full lab range orchestrate itself:
+The ultimate beginner option! This allows your laptop to automatically pull the installation binaries, download the orchestrator engine without accounts, configure the private networks, and connect everything with zero manual steps.
+
+1. Open your **Host Laptop PowerShell as an Administrator** and run this single line to silently install Vagrant with zero web forms or logins:
+```powershell
+winget install HashiCorp.Vagrant --silent --accept-source-agreements --accept-package-agreements
+```
+2. **Restart your PowerShell window** to refresh your system paths.
+3. Navigate into your cloned repository root folder and type exactly **one command** to fire up your entire multi-VM automated hacking range:
 ```bash
 vagrant up
 ```
