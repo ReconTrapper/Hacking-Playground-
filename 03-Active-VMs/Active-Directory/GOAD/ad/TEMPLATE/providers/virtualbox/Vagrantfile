@@ -1,0 +1,15 @@
+boxes = [
+  { :name => "DC01",  :ip => "192.168.56.30", :box => "jborean93/WindowsServer2019", :os => "windows", :cpus => 2, :mem => 4000},
+  { :name => "SRV01", :ip => "192.168.56.31", :box => "jborean93/WindowsServer2019", :os => "windows", :cpus => 2, :mem => 4000}
+]
+
+  # Recommended boxes
+  # Windows server 2019 (180days)
+  #{ :name => "X", :ip => "192.168.56.x", :box => "jborean93/WindowsServer2019", :os => "windows"},
+  #{ :name => "X", :ip => "192.168.56.x", :box => "StefanScherer/windows_2019", :box_version => "2021.05.15", :os => "windows"},
+  #{ :name => "X", :ip => "192.168.56.x", :box => "StefanScherer/windows_2019", :box_version => "2020.07.17", :os => "windows"},
+  # Windows server 2016 (180days)
+  #{ :name => "X", :ip => "192.168.56.x", :box => "StefanScherer/windows_2016", :box_version => "2017.12.14", :os => "windows"},
+  #{ :name => "X", :ip => "192.168.56.x", :box => "StefanScherer/windows_2016", :box_version => "2019.02.14", :os => "windows"},
+  # Windows 10 (90days)
+  # TODO

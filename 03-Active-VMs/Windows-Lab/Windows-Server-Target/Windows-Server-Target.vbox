@@ -8,10 +8,12 @@
 ** Written by VirtualBox 7.2.2 (r170484)
 -->
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.19-windows">
-  <Machine uuid="{294ab9f3-87bc-4be1-93e3-f8c9286fe028}" name="Windows-Server-Target" OSType="Windows2022_64" snapshotFolder="Snapshots" lastStateChange="2026-05-18T17:33:23Z">
+  <Machine uuid="{294ab9f3-87bc-4be1-93e3-f8c9286fe028}" name="Windows-Server-Target" OSType="Windows2022_64" currentSnapshot="{08f6a4fa-429f-4507-8e85-38000d70ecb8}" snapshotFolder="Snapshots" lastStateChange="2026-05-18T20:38:40Z">
     <MediaRegistry>
       <HardDisks>
-        <HardDisk uuid="{9f7b7956-b002-42ae-9762-d55ebece4d52}" location="Windows-Server-Target.vdi" format="VDI" type="Normal"/>
+        <HardDisk uuid="{9f7b7956-b002-42ae-9762-d55ebece4d52}" location="Windows-Server-Target.vdi" format="VDI" type="Normal">
+          <HardDisk uuid="{90072751-9e29-40e9-8eee-e2d2941f16d8}" location="Snapshots/{90072751-9e29-40e9-8eee-e2d2941f16d8}.vdi" format="VDI"/>
+        </HardDisk>
       </HardDisks>
       <DVDImages>
         <Image uuid="{12664b20-3b46-4c0a-8229-c4ef4e099154}" location="C:/Hacking-Playground/02-ISO-Archive/Windows/Windows_Server_Evaluation.iso"/>
@@ -24,6 +26,80 @@
       <ExtraDataItem name="GUI/LastGuestSizeHint" value="1024,768"/>
       <ExtraDataItem name="GUI/LastNormalWindowPosition" value="847,82,1024,822"/>
     </ExtraData>
+    <Snapshot uuid="{08f6a4fa-429f-4507-8e85-38000d70ecb8}" name="Clean_BadBlood_Fuzzed" timeStamp="2026-05-18T20:28:19Z">
+      <Description>Active Directory range fully populated with 2491 fuzzed BadBlood target objects before attack execution.</Description>
+      <Hardware>
+        <Memory RAMSize="4096"/>
+        <HID Pointing="USBTablet"/>
+        <Paravirt provider="HyperV"/>
+        <Display controller="VBoxSVGA" VRAMSize="128"/>
+        <Firmware/>
+        <BIOS>
+          <IOAPIC enabled="true"/>
+          <SmbiosUuidLittleEndian enabled="true"/>
+          <AutoSerialNumGen enabled="true"/>
+        </BIOS>
+        <USB>
+          <Controllers>
+            <Controller name="XHCI" type="XHCI"/>
+          </Controllers>
+        </USB>
+        <Network>
+          <Adapter slot="0" enabled="true" MACAddress="080027F37D9B" type="82540EM">
+            <DisabledModes>
+              <NAT localhost-reachable="true"/>
+              <InternalNetwork name="intnet"/>
+            </DisabledModes>
+            <NATNetwork name="LabNet"/>
+          </Adapter>
+        </Network>
+        <AudioAdapter controller="HDA" useDefault="true" driver="WAS" enabled="true" enabledOut="true"/>
+        <Clipboard mode="Bidirectional"/>
+        <DragAndDrop mode="Bidirectional"/>
+        <GuestProperties>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxControl.exe" value="7.2.2r170484" timestamp="1779127359449146000" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxGuest.sys" value="7.2.2r170484" timestamp="1779127359461365800" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxHook.dll" value="7.2.2r170484" timestamp="1779127359451066700" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMRXNP.dll" value="7.2.2r170484" timestamp="1779127359458436000" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMouse.sys" value="7.2.2r170484" timestamp="1779127359461365801" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxSF.sys" value="7.2.2r170484" timestamp="1779127359461365802" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxService.exe" value="7.2.2r170484" timestamp="1779127359454528101" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxTray.exe" value="7.2.2r170484" timestamp="1779127359454528100" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/HostVerLastChecked" value="7.2.2" timestamp="1779127658121464700" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/InstallDir" value="C:/Program Files/Oracle/VirtualBox Guest Additions" timestamp="1779127359446184203" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Revision" value="170484" timestamp="1779127359446184202" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/Version" value="7.2.2" timestamp="1779127359446184200" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestAdd/VersionExt" value="7.2.2" timestamp="1779127359446184201" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/0/MAC" value="080027F37D9B" timestamp="1779127359490332800" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/0/Status" value="Up" timestamp="1779127359489355402" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Broadcast" value="255.255.255.255" timestamp="1779127359489355400" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/IP" value="10.0.2.8" timestamp="1779127359488382800" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Netmask" value="255.255.255.0" timestamp="1779127359489355401" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/Net/Count" value="1" timestamp="1779129544626082700" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/OS/Product" value="Windows 2025" timestamp="1779127359445209200" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/OS/Release" value="10.0.26100.1742" timestamp="1779127359445209201" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/OS/ServicePack" value="" timestamp="1779127359445209203" flags=""/>
+          <GuestProperty name="/VirtualBox/GuestInfo/OS/Version" value="" timestamp="1779127359445209202" flags=""/>
+          <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="en_US" timestamp="1779129547887862000" flags="RDONLYGUEST"/>
+        </GuestProperties>
+        <StorageControllers>
+          <StorageController name="SATA" type="AHCI" PortCount="2" useHostIOCache="false" Bootable="true" IDE0MasterEmulationPort="0" IDE0SlaveEmulationPort="1" IDE1MasterEmulationPort="2" IDE1SlaveEmulationPort="3">
+            <AttachedDevice type="HardDisk" hotpluggable="false" port="0" device="0">
+              <Image uuid="{9f7b7956-b002-42ae-9762-d55ebece4d52}"/>
+            </AttachedDevice>
+            <AttachedDevice passthrough="false" type="DVD" hotpluggable="false" port="1" device="0">
+              <Image uuid="{357d6ddc-2d49-4ce2-b25a-b04f91107142}"/>
+            </AttachedDevice>
+          </StorageController>
+        </StorageControllers>
+        <CPU>
+          <HardwareVirtExLargePages enabled="true"/>
+          <PAE enabled="false"/>
+          <NestedHWVirt enabled="true"/>
+          <LongMode enabled="true"/>
+        </CPU>
+      </Hardware>
+    </Snapshot>
     <Hardware>
       <Memory RAMSize="4096"/>
       <HID Pointing="USBTablet"/>
@@ -53,45 +129,40 @@
       <Clipboard mode="Bidirectional"/>
       <DragAndDrop mode="Bidirectional"/>
       <GuestProperties>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxControl.exe" value="7.2.2r170484" timestamp="1779127359449146000" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxGuest.sys" value="7.2.2r170484" timestamp="1779127359461365800" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxHook.dll" value="7.2.2r170484" timestamp="1779127359451066700" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMRXNP.dll" value="7.2.2r170484" timestamp="1779127359458436000" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMouse.sys" value="7.2.2r170484" timestamp="1779127359461365801" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxSF.sys" value="7.2.2r170484" timestamp="1779127359461365802" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxService.exe" value="7.2.2r170484" timestamp="1779127359454528101" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxTray.exe" value="7.2.2r170484" timestamp="1779127359454528100" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/GuiOnFocus" value="0" timestamp="1779128954025720600" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/GuestAdd/HostVerLastChecked" value="7.2.2" timestamp="1779127658121464700" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/InstallDir" value="C:/Program Files/Oracle/VirtualBox Guest Additions" timestamp="1779127359446184203" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Revision" value="170484" timestamp="1779127359446184202" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/Version" value="7.2.2" timestamp="1779127359446184200" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/VersionExt" value="7.2.2" timestamp="1779127359446184201" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/MAC" value="080027F37D9B" timestamp="1779127359490332800" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/Status" value="Up" timestamp="1779127359489355402" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Broadcast" value="255.255.255.255" timestamp="1779127359489355400" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/IP" value="10.0.2.8" timestamp="1779127359488382800" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Netmask" value="255.255.255.0" timestamp="1779127359489355401" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/Net/Count" value="1" timestamp="1779129544626082700" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/LoggedInUsers" value="1" timestamp="1779127621581796102" flags="TRANSIENT, TRANSRESET"/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/LoggedInUsersList" value="Administrator" timestamp="1779127621581796101" flags="TRANSIENT, TRANSRESET"/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/NoLoggedInUsers" value="false" timestamp="1779127621581796103" flags="TRANSIENT, TRANSRESET"/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/Product" value="Windows 2025" timestamp="1779127359445209200" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/Release" value="10.0.26100.1742" timestamp="1779127359445209201" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/ServicePack" value="" timestamp="1779127359445209203" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/OS/Version" value="" timestamp="1779127359445209202" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestInfo/User/Administrator@TRAPPED/UsageState" value="Idle" timestamp="1779128962093044700" flags="TRANSIENT, TRANSRESET"/>
-        <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="en_US" timestamp="1779129547887862000" flags="RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxRev" value="170484" timestamp="1779125603899223202" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVer" value="7.2.2" timestamp="1779125603899223200" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVerExt" value="7.2.2" timestamp="1779125603899223201" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/VMInfo/ResetCounter" value="2" timestamp="1779127350004175800" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/VMInfo/ResumeCounter" value="1" timestamp="1779126841565350300" flags="TRANSIENT, RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxControl.exe" value="7.2.2r170484" timestamp="1779136731393728900" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxGuest.sys" value="7.2.2r170484" timestamp="1779136731412313700" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxHook.dll" value="7.2.2r170484" timestamp="1779136731396655600" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMRXNP.dll" value="7.2.2r170484" timestamp="1779136731404919000" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxMouse.sys" value="7.2.2r170484" timestamp="1779136731413297400" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxSF.sys" value="7.2.2r170484" timestamp="1779136731413297401" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxService.exe" value="7.2.2r170484" timestamp="1779136731401981200" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxTray.exe" value="7.2.2r170484" timestamp="1779136731400469200" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/GuiOnFocus" value="1" timestamp="1779137752497049900" flags="TRANSIENT, RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/GuestAdd/HostVerLastChecked" value="7.2.2" timestamp="1779136973506328100" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/InstallDir" value="C:/Program Files/Oracle/VirtualBox Guest Additions" timestamp="1779136731390248904" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Revision" value="170484" timestamp="1779136731390248903" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/Version" value="7.2.2" timestamp="1779136731390248901" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestAdd/VersionExt" value="7.2.2" timestamp="1779136731390248902" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/MAC" value="080027F37D9B" timestamp="1779136731436935301" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/Status" value="Up" timestamp="1779136731436935300" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Broadcast" value="255.255.255.255" timestamp="1779136731435915001" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/IP" value="10.0.2.8" timestamp="1779136731435915000" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/0/V4/Netmask" value="255.255.255.0" timestamp="1779136731435915002" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/Net/Count" value="1" timestamp="1779137751688634900" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/OS/Product" value="Windows 2025" timestamp="1779136731389243200" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/OS/Release" value="10.0.26100.1742" timestamp="1779136731389243201" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/OS/ServicePack" value="" timestamp="1779136731390248900" flags=""/>
+        <GuestProperty name="/VirtualBox/GuestInfo/OS/Version" value="" timestamp="1779136731389243202" flags=""/>
+        <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="en_US" timestamp="1779137756084733800" flags="RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/HostInfo/VBoxRev" value="170484" timestamp="1779136720515919802" flags="TRANSIENT, RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/HostInfo/VBoxVer" value="7.2.2" timestamp="1779136720515919800" flags="TRANSIENT, RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/HostInfo/VBoxVerExt" value="7.2.2" timestamp="1779136720515919801" flags="TRANSIENT, RDONLYGUEST"/>
+        <GuestProperty name="/VirtualBox/VMInfo/ResetCounter" value="1" timestamp="1779137752511582100" flags="TRANSIENT, RDONLYGUEST"/>
       </GuestProperties>
       <StorageControllers>
         <StorageController name="SATA" type="AHCI" PortCount="2" useHostIOCache="false" Bootable="true" IDE0MasterEmulationPort="0" IDE0SlaveEmulationPort="1" IDE1MasterEmulationPort="2" IDE1SlaveEmulationPort="3">
           <AttachedDevice type="HardDisk" hotpluggable="false" port="0" device="0">
-            <Image uuid="{9f7b7956-b002-42ae-9762-d55ebece4d52}"/>
+            <Image uuid="{90072751-9e29-40e9-8eee-e2d2941f16d8}"/>
           </AttachedDevice>
           <AttachedDevice passthrough="false" type="DVD" hotpluggable="false" port="1" device="0">
             <Image uuid="{357d6ddc-2d49-4ce2-b25a-b04f91107142}"/>
