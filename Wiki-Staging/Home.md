@@ -1,10 +1,10 @@
-# ?? Welcome to the Hacking Playground Knowledge Base
+﻿# 🧭 Welcome to the Hacking Playground Knowledge Base
 
-This centralized Wiki documents the exact build steps, technical architectural footprints, and automation scripts used to maintain our high-performance penetration testing lab range.
+This centralized Wiki documents the step-by-step engineering setups, technical infrastructure footprints, and automation scripts used to maintain our isolated penetration testing lab range.
 
-### ?? Available Engineering Blueprints:
+## 📖 Main Lab Documentation Hub
 - [[Windows Server 2025 AD-DS Lab Range Blueprint]]
-- [[VirtualBox Performance Tuning & Core Isolation Safety]]
+- [[Git Integration & Environment OPSEC Guidelines]]
 
 ---
 *Maintained globally by ReconTrapper. Verified deployment tracking active.*
