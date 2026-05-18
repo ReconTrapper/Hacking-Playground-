@@ -119,9 +119,21 @@
             text-align: center;
             color: var(--text-muted);
             font-size: 0.85rem;
-            margin-top: 5px;
+            margin-top: 50px;
             border-top: 1px solid #30363d;
             padding-top: 20px;
+        }
+        code, pre {
+            font-family: "SFMono-Regular", Consolas, monospace;
+            background-color: rgba(110, 118, 129, 0.4);
+            padding: 2px 4px;
+            border-radius: 6px;
+            font-size: 85%;
+        }
+        pre code {
+            background-color: transparent;
+            padding: 0;
+            font-size: 100%;
         }
     </style>
 </head>
@@ -165,10 +177,10 @@
         <h2>📟 Quick Deployment Console</h2>
         <div class="terminal">
             <div class="terminal-header"># Host PowerShell (Run as Administrator)</div>
-            <div><span style="color: #ff3e3e;">PS C:\></span> winget install HashiCorp.Vagrant --silent --accept-source-agreements --accept-package-agreements</div>
-            <div><span style="color: #ff3e3e;">PS C:\></span> git clone https://github.com.git</div>
-            <div><span style="color: #ff3e3e;">PS C:\></span> cd Hacking-Playground-</div>
-            <div><span style="color: #ff3e3e;">PS C:\></span> vagrant up <span style="color: var(--text-muted);"># Orchestrates and stands up the complete range automatically!</span></div>
+            <pre><code><span style="color: #ff3e3e;">PS C:\></span> winget install HashiCorp.Vagrant --silent --accept-source-agreements --accept-package-agreements
+<span style="color: #ff3e3e;">PS C:\></span> git clone https://github.com.git
+<span style="color: #ff3e3e;">PS C:\></span> cd Hacking-Playground-
+<span style="color: #ff3e3e;">PS C:\></span> vagrant up</code></pre>
         </div>
 
         <footer>
