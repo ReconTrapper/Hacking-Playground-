@@ -1,0 +1,2 @@
+SHA1(SickOs1.1.ovf)= 8fbb20f43cfcc06dea2bd5e564469e0a7f2a7acc
+SHA1(SickOs1.1-disk1.vmdk)= 21b1d3fb42de9de6a99b12e9dbbffcb326a14e8d
