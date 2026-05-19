@@ -11,3 +11,4 @@ This centralized Wiki documents the step-by-step engineering setups, technical i
 
 ---
 *Maintained globally by ReconTrapper. Verified deployment tracking active.*
+- [[Hardware-Compatibility-&-System-Resource-Adaptation-Matrix]]
