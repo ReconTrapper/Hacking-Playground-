@@ -8,7 +8,7 @@
 ** Written by VirtualBox 7.2.2 (r170484)
 -->
 <VirtualBox xmlns="http://www.virtualbox.org/" version="1.19-windows">
-  <Machine uuid="{294ab9f3-87bc-4be1-93e3-f8c9286fe028}" name="Windows-Server-Target" OSType="Windows2022_64" currentSnapshot="{08f6a4fa-429f-4507-8e85-38000d70ecb8}" snapshotFolder="Snapshots" lastStateChange="2026-05-18T20:38:40Z">
+  <Machine uuid="{294ab9f3-87bc-4be1-93e3-f8c9286fe028}" name="Windows-Server-Target" OSType="Windows2022_64" currentSnapshot="{08f6a4fa-429f-4507-8e85-38000d70ecb8}" snapshotFolder="Snapshots" lastStateChange="2026-05-19T01:49:46Z">
     <MediaRegistry>
       <HardDisks>
         <HardDisk uuid="{9f7b7956-b002-42ae-9762-d55ebece4d52}" location="Windows-Server-Target.vdi" format="VDI" type="Normal">
@@ -137,7 +137,6 @@
         <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxSF.sys" value="7.2.2r170484" timestamp="1779136731413297401" flags=""/>
         <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxService.exe" value="7.2.2r170484" timestamp="1779136731401981200" flags=""/>
         <GuestProperty name="/VirtualBox/GuestAdd/Components/VBoxTray.exe" value="7.2.2r170484" timestamp="1779136731400469200" flags=""/>
-        <GuestProperty name="/VirtualBox/GuestAdd/GuiOnFocus" value="1" timestamp="1779137752497049900" flags="TRANSIENT, RDONLYGUEST"/>
         <GuestProperty name="/VirtualBox/GuestAdd/HostVerLastChecked" value="7.2.2" timestamp="1779136973506328100" flags=""/>
         <GuestProperty name="/VirtualBox/GuestAdd/InstallDir" value="C:/Program Files/Oracle/VirtualBox Guest Additions" timestamp="1779136731390248904" flags=""/>
         <GuestProperty name="/VirtualBox/GuestAdd/Revision" value="170484" timestamp="1779136731390248903" flags=""/>
@@ -154,10 +153,6 @@
         <GuestProperty name="/VirtualBox/GuestInfo/OS/ServicePack" value="" timestamp="1779136731390248900" flags=""/>
         <GuestProperty name="/VirtualBox/GuestInfo/OS/Version" value="" timestamp="1779136731389243202" flags=""/>
         <GuestProperty name="/VirtualBox/HostInfo/GUI/LanguageID" value="en_US" timestamp="1779137756084733800" flags="RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxRev" value="170484" timestamp="1779136720515919802" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVer" value="7.2.2" timestamp="1779136720515919800" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/HostInfo/VBoxVerExt" value="7.2.2" timestamp="1779136720515919801" flags="TRANSIENT, RDONLYGUEST"/>
-        <GuestProperty name="/VirtualBox/VMInfo/ResetCounter" value="1" timestamp="1779137752511582100" flags="TRANSIENT, RDONLYGUEST"/>
       </GuestProperties>
       <StorageControllers>
         <StorageController name="SATA" type="AHCI" PortCount="2" useHostIOCache="false" Bootable="true" IDE0MasterEmulationPort="0" IDE0SlaveEmulationPort="1" IDE1MasterEmulationPort="2" IDE1SlaveEmulationPort="3">
