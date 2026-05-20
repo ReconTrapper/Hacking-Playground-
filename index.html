@@ -41,6 +41,13 @@
             font-size: 1.1rem;
             margin: 0;
         }
+        .trust-section {
+            background-color: #1f1b1b;
+            border-left: 4px solid var(--accent-color);
+            padding: 20px;
+            margin-bottom: 30px;
+            border-radius: 0 6px 6px 0;
+        }
         .grid {
             display: grid;
             grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -71,28 +78,37 @@
             margin-bottom: 10px;
             border: 1px solid var(--accent-color);
         }
-        .target-list {
-            list-style: none;
-            padding: 0;
-            margin: 0;
+        .timeline-box {
+            background-color: var(--panel-bg);
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            padding: 25px;
+            margin-bottom: 30px;
         }
-        .target-list li {
-            padding: 8px 0;
-            border-bottom: 1px solid #21262d;
+        .timeline-step {
+            margin-bottom: 20px;
+            padding-left: 15px;
+            border-left: 2px solid #30363d;
         }
-        .target-list li:last-child {
-            border-bottom: none;
+        .timeline-step:last-child {
+            margin-bottom: 0;
+            border-left: 2px solid transparent;
+        }
+        .step-title {
+            color: #fff;
+            font-weight: bold;
+            font-size: 1.1rem;
+            margin-bottom: 5px;
         }
         .terminal {
             background-color: var(--terminal-bg);
             border: 1px solid #30363d;
             border-radius: 6px;
             padding: 20px;
-            font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+            font-family: "SFMono-Regular", Consolas, monospace;
             color: var(--terminal-green);
             overflow-x: auto;
             margin-bottom: 30px;
-            box-shadow: inset 0 0 10px rgba(0,0,0,0.8);
         }
         .terminal-header {
             color: var(--text-muted);
@@ -101,20 +117,6 @@
             padding-bottom: 5px;
             font-size: 0.85rem;
         }
-        .btn-link {
-            display: inline-block;
-            background-color: #238636;
-            color: white;
-            text-decoration: none;
-            padding: 10px 20px;
-            border-radius: 6px;
-            font-weight: 600;
-            margin-top: 10px;
-            transition: background 0.2s;
-        }
-        .btn-link:hover {
-            background-color: #2ea043;
-        }
         footer {
             text-align: center;
             color: var(--text-muted);
@@ -122,18 +124,6 @@
             margin-top: 50px;
             border-top: 1px solid #30363d;
             padding-top: 20px;
-        }
-        code, pre {
-            font-family: "SFMono-Regular", Consolas, monospace;
-            background-color: rgba(110, 118, 129, 0.4);
-            padding: 2px 4px;
-            border-radius: 6px;
-            font-size: 85%;
-        }
-        pre code {
-            background-color: transparent;
-            padding: 0;
-            font-size: 100%;
         }
     </style>
 </head>
@@ -144,33 +134,32 @@
             <p class="subtitle">A 100% Free, Multi-Target Cyber Security Sandbox & Automated Hacking Lab</p>
         </header>
 
+        <div class="trust-section">
+            <h3 style="margin-top:0; color:#fff;">🛡️ Zero-Risk Execution Transparency</h3>
+            <p style="margin-bottom:0; font-size:0.95rem;">
+                This laboratory functions completely inside an air-gapped hypervisor isolation layer. 
+                <strong>No modifications, alterations, or background software configurations ever execute on your physical host laptop [01-Hypervisors, 02-ISO-Archive].</strong> 
+                Your Windows 11 host registry parameters and local account databases remain entirely untouched while host Core Isolation / Memory Integrity properties remain active [01-Hypervisors, 02-ISO-Archive].
+            </p>
+        </div>
+
         <div class="grid">
             <div class="card">
                 <span class="badge">ACTIVE RANGE FOREST</span>
-                <h2>🌲 Enterprise Directory AD-DS</h2>
-                <ul class="target-list">
-                    <li><strong>Realm Domain:</strong> <code>trapped.local</code></li>
-                    <li><strong>Sandbox Target IP:</strong> <code>10.0.2.8</code></li>
-                    <li><strong>Target Density:</strong> 2,491 Fuzzed User Objects</li>
-                    <li><strong>Exploit Matrix:</strong> AS-REP Roasting & Password Spraying</li>
-                </ul>
+                <h2>🌲 Enterprise AD-DS Directory</h2>
+                <p>Windows Server 2025 domain structure pre-loaded with exactly 2,491 fuzzed user profiles, tiered Organizational Units (OUs), and nested computer targets for intense password spraying and roasting practice [01-Hypervisors, 02-ISO-Archive].</p>
             </div>
 
             <div class="card">
                 <span class="badge">BOOT-TO-ROOT CATALOG</span>
                 <h2>🐧 Multi-OS Vulnerable Targets</h2>
-                <ul class="target-list">
-                    <li><strong>🌐 DC-1 Web Target:</strong> Drupal Core App Vulnerabilities (<code>10.0.2.5</code>)</li>
-                    <li><strong>🛡️ SickOs 1.1:</strong> Shell Hunting & Proxy Misconfigurations (<code>10.0.2.11</code>)</li>
-                    <li><strong>🐧 Kioptrix Level 1:</strong> Legacy SMB & Apache Auditing (<code>10.0.2.12</code>)</li>
-                </ul>
+                <p>Includes separate, host-isolated targets across our private network switch: DC-1 (vulnerable Drupal CMS), SickOs (proxy server misconfigurations), and Kioptrix Level 1 (legacy service auditing) [01-Hypervisors, 02-ISO-Archive].</p>
             </div>
 
             <div class="card">
                 <span class="badge">DEVSECOPS IAAS</span>
                 <h2>🤖 Automation Core</h2>
-                <p>Built completely utilizing Infrastructure-as-Code principles. Fully sandboxed behind an air-gapped Virtual Box environment mapping while keeping Windows 11 Core Isolation active.</p>
-                <a href="https://github.com" class="btn-link" target="_blank">View Source Code</a>
+                <p>Built completely utilizing Infrastructure-as-Code principles. Fully automated deployment templates stand up multiple complex networks, interfaces, and domains completely hands-free [01-Hypervisors, 02-ISO-Archive].</p>
             </div>
         </div>
 
@@ -178,9 +167,43 @@
         <div class="terminal">
             <div class="terminal-header"># Host PowerShell (Run as Administrator)</div>
             <pre><code><span style="color: #ff3e3e;">PS C:\></span> winget install HashiCorp.Vagrant --silent --accept-source-agreements --accept-package-agreements
-<span style="color: #ff3e3e;">PS C:\></span> git clone https://github.com.git
+<span style="color: #ff3e3e;">PS C:\></span> git clone https://github.com
 <span style="color: #ff3e3e;">PS C:\></span> cd Hacking-Playground-
 <span style="color: #ff3e3e;">PS C:\></span> vagrant up</code></pre>
+        </div>
+
+        <div class="timeline-box">
+            <h2 style="color: #fff; margin-top: 0; margin-bottom: 20px; border-bottom: 1px solid #30363d; padding-bottom: 10px;">🔍 What Happens Under the Hood (Chronological Timeline)</h2>
+            
+            <div class="timeline-step">
+                <div class="step-title">1. Automated Dependency Mounting (Winget Verification)</div>
+                <p style="margin: 0; color: var(--text-muted);">The <code>winget</code> command connects directly to Microsoft's official app store channels to download HashiCorp Vagrant and Oracle VirtualBox silently in the background, updating all global environment system variable paths automatically [Source: GitHub Documentation].</p>
+            </div>
+
+            <div class="timeline-step">
+                <div class="step-title">2. Isolated Subnet Mapping (Private Switch Integration)</div>
+                <p style="margin: 0; color: var(--text-muted);">When you execute <code>vagrant up</code>, the virtualization engine builds an internal, host-only virtual network switch switch layer (<strong>LabNet / 10.0.2.0/24</strong>) [01-Hypervisors, 02-ISO-Archive]. This ensures all downstream exploits, network sweeps, and fuzzed target vectors remain completely air-gapped from your physical home Wi-Fi network [01-Hypervisors, 02-ISO-Archive].</p>
+            </div>
+
+            <div class="timeline-step">
+                <div class="step-title">3. Headless Operating System Streaming (Base Box Caching)</div>
+                <p style="margin: 0; color: var(--text-muted);">Vagrant communicates with secure cloud image mirrors to download the official base image templates for Kali Linux and Windows Server Evaluation [01-Hypervisors, 02-ISO-Archive]. It automatically provisions separate virtual disk drives and maps hardware constraints (memory allocations, virtual CPUs) cleanly.</p>
+            </div>
+
+            <div class="timeline-step">
+                <div class="step-title">4. Active Directory Forest Automation (Domain Elevation)</div>
+                <p style="margin: 0; color: var(--text-muted);">The script signs into the fresh Windows Server instance, launches native PowerShell automation, installs the Active Directory Domain Services (AD-DS) framework role, elevates the server to a root domain controller forest named <code>trapped.local</code>, and issues an automated system restart.</p>
+            </div>
+
+            <div class="timeline-step">
+                <div class="step-title">5. Range Database Fuzzing Matrix (Target Generation)</div>
+                <p style="margin: 0; color: var(--text-muted);">The script invokes the BadBlood engine completely inside the virtual boundaries of the server [01-Hypervisors, 02-ISO-Archive]. It generates multi-tiered Organizational Units and injects exactly <strong>2,491 randomized user targets</strong> directly into the isolated directory file [01-Hypervisors, 02-ISO-Archive]. Concurrently, it misconfigures realistic security flaws like disabling pre-authentication for targeted <strong>AS-REP Roasting</strong> training [01-Hypervisors, 02-ISO-Archive].</p>
+            </div>
+
+            <div class="timeline-step">
+                <div class="step-title">6. Boot-to-Root Catalog Synchronization (Multi-VM Launch)</div>
+                <p style="margin: 0; color: var(--text-muted);">Vagrant finishes by downloading and launching your preconfigured Linux-based target endpoints (DC-1 Drupal Server, SickOs, Kioptrix), linking them seamlessly to the exact same private subnet and leaving you with a weaponized, production-grade cyber sandbox range completely ready for training [01-Hypervisors, 02-ISO-Archive]!</p>
+            </div>
         </div>
 
         <footer>
@@ -188,36 +211,5 @@
             <p style="font-size: 0.75rem; color: #58a6ff;">🤖 AI-Assisted Architecture | Human-Driven Orchestration & Verification</p>
         </footer>
     </div>
-
-    <!-- Automated Deployment Info Section -->
-    <div style="background: #15171e; border: 1px solid #2d3139; border-radius: 6px; padding: 25px; margin: 30px auto; max-width: 1000px; font-family: sans-serif; color: #cbd5e1; line-height: 1.6; text-align: left;">
-        <h3 style="color: #f8fafc; margin-top: 0; display: flex; align-items: center; gap: 8px;">🚀 What Happens During Deployment</h3>
-        <p style="color: #94a3b8; font-size: 14px;">When a user runs the Quick Deployment commands, the system automates the creation of an isolated sandbox environment through the following steps:</p>
-        
-        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">🛠️ Automated Tool Installation</h4>
-        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
-            <li>Uses Windows Package Manager (<code>winget</code>) to silently install HashiCorp Vagrant.</li>
-            <li>Bypasses user prompts by automatically accepting all vendor source and package agreements.</li>
-        </ul>
-
-        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">📦 Source Code Retrieval</h4>
-        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
-            <li>Clones the active laboratory source files and configuration assets directly from the remote repository.</li>
-        </ul>
-
-        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">📂 Workspace Initialization</h4>
-        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
-            <li>Drops the user's administrative command terminal directly into the root deployment folder (<code>Hacking-Playground-</code>).</li>
-        </ul>
-
-        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">⚙️ Automated Lab Provisioning (<code>vagrant up</code>)</h4>
-        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
-            <li><strong>Box Download</strong>: Fetches required pre-configured OS images if not cached locally.</li>
-            <li><strong>Virtualization Launch</strong>: Boots up the exact instances and nodes specified by the workspace topology.</li>
-            <li><strong>Isolated Networking</strong>: Establishes secure private networks and host-only adapters to prevent malicious traffic leakage.</li>
-            <li><strong>Environment Provisioning</strong>: Executes background shell scripts to auto-install hacking tools and configure Active Directory structures.</li>
-        </ul>
-    </div>
-
 </body>
 </html>
