@@ -188,5 +188,36 @@
             <p style="font-size: 0.75rem; color: #58a6ff;">🤖 AI-Assisted Architecture | Human-Driven Orchestration & Verification</p>
         </footer>
     </div>
+
+    <!-- Automated Deployment Info Section -->
+    <div style="background: #15171e; border: 1px solid #2d3139; border-radius: 6px; padding: 25px; margin: 30px auto; max-width: 1000px; font-family: sans-serif; color: #cbd5e1; line-height: 1.6; text-align: left;">
+        <h3 style="color: #f8fafc; margin-top: 0; display: flex; align-items: center; gap: 8px;">🚀 What Happens During Deployment</h3>
+        <p style="color: #94a3b8; font-size: 14px;">When a user runs the Quick Deployment commands, the system automates the creation of an isolated sandbox environment through the following steps:</p>
+        
+        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">🛠️ Automated Tool Installation</h4>
+        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
+            <li>Uses Windows Package Manager (<code>winget</code>) to silently install HashiCorp Vagrant.</li>
+            <li>Bypasses user prompts by automatically accepting all vendor source and package agreements.</li>
+        </ul>
+
+        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">📦 Source Code Retrieval</h4>
+        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
+            <li>Clones the active laboratory source files and configuration assets directly from the remote repository.</li>
+        </ul>
+
+        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">📂 Workspace Initialization</h4>
+        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
+            <li>Drops the user's administrative command terminal directly into the root deployment folder (<code>Hacking-Playground-</code>).</li>
+        </ul>
+
+        <h4 style="color: #f1f5f9; margin-bottom: 5px; font-size: 15px;">⚙️ Automated Lab Provisioning (<code>vagrant up</code>)</h4>
+        <ul style="margin-top: 5px; padding-left: 20px; font-size: 14px; color: #cbd5e1;">
+            <li><strong>Box Download</strong>: Fetches required pre-configured OS images if not cached locally.</li>
+            <li><strong>Virtualization Launch</strong>: Boots up the exact instances and nodes specified by the workspace topology.</li>
+            <li><strong>Isolated Networking</strong>: Establishes secure private networks and host-only adapters to prevent malicious traffic leakage.</li>
+            <li><strong>Environment Provisioning</strong>: Executes background shell scripts to auto-install hacking tools and configure Active Directory structures.</li>
+        </ul>
+    </div>
+
 </body>
 </html>
