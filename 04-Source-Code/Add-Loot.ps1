@@ -1,4 +1,4 @@
-﻿<#
+<#
 .SYNOPSIS
     Dynamic Multi-OS Loot Ingestion Automation for KeePassXC on Kali Linux.
 .DESCRIPTION
@@ -10,7 +10,7 @@ $DatabasePath = "$HOME/Labs/trapped.local/loot/Trapped-Lab-Loot.kdbx"
 
 Clear-Host
 Write-Host "==================================================" -ForegroundColor Cyan
-Write-Host " 🔥 RECONTRAPPER PLAYGROUND LOOT INGESTION TOOL 🔥" -ForegroundColor Cyan
+Write-Host " ?? RECONTRAPPER PLAYGROUND LOOT INGESTION TOOL ??" -ForegroundColor Cyan
 Write-Host "==================================================" -ForegroundColor Cyan
 Write-Host "Select the Target OS Range Compromised:" -ForegroundColor Yellow
 Write-Host "1) Windows Server 2025 Active Directory Range"
@@ -37,8 +37,10 @@ $MasterPass = Read-Host -AsSecureString "Enter KeePass Master Password"
 $BSTR = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($MasterPass)
 $PlainMaster = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($BSTR)
 
-$CliCommand = "echo '$PlainMaster' | keepassxc-cli add '$DatabasePath' '$GroupTarget/$TargetUser' --username '$TargetUser' --password-prompt --url '$TargetIP' --notes '$Notes'"
+$Env:KPXC_DIRTY = $PlainMaster
+$CliCommand = "echo `$KPXC_DIRTY | keepassxc-cli add '$DatabasePath' '$GroupTarget/$TargetUser' --username '$TargetUser' --password-prompt --url '$TargetIP' --notes '$Notes'"
 bash -c $CliCommand
+Remove-Item Env:\KPXC_DIRTY
 
 Write-Host ""
 Write-Host "[+] SUCCESS: $TargetUser cleanly cataloged under '$GroupTarget' for Target IP $TargetIP!" -ForegroundColor Green
