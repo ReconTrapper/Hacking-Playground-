@@ -39,8 +39,10 @@ $PlainMaster = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($BSTR)
 
 $Env:KPXC_DIRTY = $PlainMaster
 $Env:KPXC_DIRTY = $PlainMaster
+$Env:KPXC_DIRTY = $PlainMaster
 $CliCommand = "echo `$KPXC_DIRTY | keepassxc-cli add '$DatabasePath' '$GroupTarget/$TargetUser' --username '$TargetUser' --password-prompt --url '$TargetIP' --notes '$Notes'"
 bash -c $CliCommand
+Remove-Item Env:\KPXC_DIRTY
 Remove-Item Env:\KPXC_DIRTY
 Remove-Item Env:\KPXC_DIRTY
 
