@@ -22,4 +22,4 @@ vagrant up
 1. **Installs Prerequisites:** Silently pulls down VirtualBox and Vagrant directly from official servers, and instantly updates your terminal's memory map path so you don't have to restart your computer.
 2. **Builds the Workspace:** Programmatically constructs your entire structured directory layout (`01-Hypervisors`, `02-ISO-Archive\Windows`, `04-Source-Code`, etc.) right on your root `C:\` drive.
 3. **Downloads the Code:** Streams your clean infrastructure configuration sheet and your automation tools directly into their designated folders.
-4. **Launches the Range:** Boots your private virtual network adapters, downloads the stable target operating system images, and starts the lab completely hands-free.
+4. **Launches the Range (Vagrant up):** Boots your private virtual network adapters, downloads the stable target operating system images, and starts the lab completely hands-free.
