@@ -1,10 +1,10 @@
-﻿# ??? The Killbox: Trapper Range � Automated Setup
+﻿# 🏗️ The Killbox: Trapper Range — Automated Setup
 
 The Trapper Range is a self-assembling, multi-target cybersecurity training arena. Instead of requiring manual operating system configuration or tedious user creation, this repository packages an entire enterprise laboratory environment down to a single automated deployment blueprint.
 
 ---
 
-## ?? System Requirements Matrix
+## 🖥️ System Requirements Matrix
 
 Before initializing the deployment, ensure your physical host computer meets these minimum specifications to prevent memory lockups:
 
@@ -17,11 +17,11 @@ Before initializing the deployment, ensure your physical host computer meets the
 | **Storage Space** | **40 GB Free Space** | **60 GB Free Space (SSD)** |
 | **Virtualization** | Intel VT-x or AMD-V (Enabled in BIOS) | Virtualization Enabled in BIOS |
 
-> ?? **Prerequisite Note:** Open Windows Task Manager, navigate to the **Performance** tab, and confirm that **Virtualization: Enabled** is visible in the bottom right corner before proceeding.
+> ⚠️ **Prerequisite Note:** Open Windows Task Manager, navigate to the **Performance** tab, and confirm that **Virtualization: Enabled** is visible in the bottom right corner before proceeding.
 
 ---
 
-## ?? The 1-Step Master Deployment Pipeline
+## 🚀 The 1-Step Master Deployment Pipeline
 
 Copy and paste this entire block of code straight into a Windows **Administrator PowerShell** terminal window. 
 
@@ -30,13 +30,13 @@ This single pipeline will instantly map your workspace folder layouts, download 
 ```powershell
 mkdir "C:\Hacking-Playground\01-Hypervisors", "C:\Hacking-Playground\02-ISO-Archive\Windows", "C:\Hacking-Playground\03-Active-VMs\Windows-Lab", "C:\Hacking-Playground\04-Source-Code\Provisioning-Scripts", "C:\Hacking-Playground\04-Source-Code\Recon-Scanners", "C:\Hacking-Playground\.github\ISSUE_TEMPLATE" -Force | Out-Null; cd "C:\Hacking-Playground"
 Invoke-WebRequest -Uri "https://githubusercontent.com" -OutFile "Vagrantfile"
-Invoke-WebRequest -Uri "https://githubusercontent.com" -OutFile "https://githubusercontent.com"
-Invoke-WebRequest -Uri "https://githubusercontent.com" -OutFile "https://githubusercontent.com"
+Invoke-WebRequest -Uri "https://githubusercontent.com" -OutFile "04-Source-Code/Provision-Lab-Domain.ps1"
+Invoke-WebRequest -Uri "https://githubusercontent.com" -OutFile "04-Source-Code/Add-Loot.ps1"
 winget install Oracle.VirtualBox HashiCorp.Vagrant --accept-source-agreements --accept-package-agreements; $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
-vVagrant up
+vagrant up
 ```
 
-## ?? What This Does on Your PC Instantly
+## 📊 What This Does on Your PC Instantly
 
 1. **Builds the Workspace (Line 1):** Programmatically constructs your entire structured directory layout (01-Hypervisors, 02-ISO-Archive\Windows, 04-Source-Code, etc.) right on your root C:\ drive in under 1 second.
 2. **Downloads the Code (Lines 2-4):** Streams your clean infrastructure configuration sheet and your automation tools directly into their designated folders from the secure GitHub source server.
