@@ -1,4 +1,0 @@
-- name: "Enable the user {{username}}"
-  ansible.windows.win_user:
-    name: "{{username}}"
-    account_disabled: false

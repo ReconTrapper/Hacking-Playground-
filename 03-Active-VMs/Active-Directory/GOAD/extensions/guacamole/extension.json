@@ -1,9 +1,0 @@
-{
-    "name": "guacamole",
-    "description": "Add guacamole to quickly connect to lab",
-    "machines": [
-        "guacamole"
-    ],
-    "compatibility": ["*"],
-    "impact": "none"
-}

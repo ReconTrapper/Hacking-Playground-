@@ -1,4 +1,0 @@
-- name: Install keepass
-  hosts: keepass
-  roles:
-    - { role: 'keepass', tags: 'keepass' }

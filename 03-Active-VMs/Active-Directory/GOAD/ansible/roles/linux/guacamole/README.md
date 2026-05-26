@@ -1,1 +1,0 @@
-modified version of https://github.com/mrlesmithjr/ansible-guacamole/tree/master (MIT license)

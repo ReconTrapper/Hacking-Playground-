@@ -1,3 +1,0 @@
-squid_port: "3128"
-ip_range: "192.168.56.1/24"
-proxy_fqdn: "proxy.sevenkingdoms.local"

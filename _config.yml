@@ -1,2 +1,0 @@
-include: [index.html]
-exclude: ["01-Hypervisors", "02-ISO-Archive", "03-Active-VMs", "04-Source-Code", "Vagrantfile", "Wiki-Staging"]
