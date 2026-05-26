@@ -1,10 +1,10 @@
-﻿# -*- mode: ruby -*-
+# -*- mode: ruby -*-
 # vi: set ft=ruby :
 
 Vagrant.configure("2") do |config|
   
   # =====================================================================
-  # 🌲 TARGET 1: LINKED WINDOWS SERVER 2025 DOMAIN CONTROLLER
+  # ?? TARGET 1: LINKED WINDOWS SERVER 2025 DOMAIN CONTROLLER
   # =====================================================================
   config.vm.define "windows_server" do |srv|
     srv.vm.box = "gusztavvargadr/windows-server-2025-standard"
@@ -27,7 +27,7 @@ Vagrant.configure("2") do |config|
   end
 
   # =====================================================================
-  # 📟 TARGET 2: LINKED WEAPONIZED KALI LINUX ATTACK CONTROLLER NODE
+  # ?? TARGET 2: LINKED WEAPONIZED KALI LINUX ATTACK CONTROLLER NODE
   # =====================================================================
   config.vm.define "kali_attacker" do |kali|
     kali.vm.box = "kalilinux/kali-linux"
