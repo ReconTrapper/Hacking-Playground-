@@ -1,4 +1,6 @@
-﻿# 🏗️ The Killbox: Trapper Range — Automated Setup
+﻿<div style="background-color: #121212; color: #e0e0e0; padding: 20px; font-family: sans-serif; border-radius: 6px;">
+
+# 🏗️ The Killbox: Trapper Range — Automated Setup
 
 The Trapper Range is a self-assembling, multi-target cybersecurity training arena. Instead of requiring manual operating system configuration or tedious user creation, this repository packages an entire enterprise laboratory environment down to a single automated deployment blueprint.
 
@@ -42,3 +44,5 @@ vagrant up
 2. **Downloads the Code (Lines 2-4):** Streams your clean infrastructure configuration sheet and your automation tools directly into their designated folders from the secure GitHub source server.
 3. **Installs Prerequisites (Line 5):** Silently pulls down VirtualBox and Vagrant directly from official servers, and instantly updates your terminal's memory map path so you don't have to restart your computer.
 4. **Launches the Range (Line 6):** Boots your private virtual network adapters, downloads the stable target operating system images, and starts the lab completely hands-free.
+
+</div>
