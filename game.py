@@ -41,7 +41,7 @@ class HackingPlaygroundGame:
             return
         
         base_cmd = parts[0].lower()
-        args = parts[1:] if len(parts) > 1 else []
+        args = parts[1] if len(parts) > 1 else ""
 
         if base_cmd == "help":
             self.show_help()
@@ -73,7 +73,8 @@ class HackingPlaygroundGame:
 
     def cmd_dir(self):
         loc = self.current_location[-1]
-        print(f"\n Directory of {'\\'.join(self.current_location)}")
+        full_path_str = "\\".join(self.current_location)
+        print(f"\n Directory of {full_path_str}")
         print("2026-06-02  04:15 PM    <DIR>          .")
         print("2026-06-02  04:15 PM    <DIR>          ..")
 
@@ -93,12 +94,11 @@ class HackingPlaygroundGame:
             print("2026-06-02  04:15 PM               105 dead_end_notice.txt")
             print("2026-06-02  04:15 PM               210 system_blueprint.dat")
 
-    def cmd_cd(self, args):
-        if not args:
-            print(f"{'\\'.join(self.current_location)}")
+    def cmd_cd(self, target):
+        if not target:
+            full_path_str = "\\".join(self.current_location)
+            print(f"{full_path_str}")
             return
-            
-        target = args[0].strip()
 
         # Handle moving backwards
         if target == "..":
@@ -123,33 +123,31 @@ class HackingPlaygroundGame:
         if folder_name == "folder_1":
             typing_effect("\n[ROOM 1: THE TRAVERSAL SHAFT]")
             typing_effect("This space demonstrates the mechanics of absolute vs relative directory jumps.")
-            typing_effect("Hint: Type 'dir' to verify parameters, then input 'cd cd_fundamentals.txt' to parse data!")
+            typing_effect("Hint: Type 'dir' to verify parameters, then input 'cd_fundamentals.txt' to look inside!")
         elif folder_name == "folder_2":
             typing_effect("\n[ROOM 2: THE ENUMERATION CELL]")
             typing_effect("This terminal matrix processes object listing functions ('ls' or 'dir').")
-            typing_effect("Hint: Analyze files with 'dir' to isolate structural anomalies.")
+            typing_effect("Hint: Type 'ls_hidden_parameters.log' to extract the local workspace keys.")
         elif folder_name == "folder_3":
             typing_effect("\n[ROOM 3: THE MAP COMPARTMENT]")
             typing_effect("Your sensor array alerts you immediately: This room dead-ends into solid data blocks.")
-            typing_effect("However, running a full visual breakdown command could expose structural links elsewhere...")
+            typing_effect("However, running a full visual breakdown command like 'tree' could expose structural links elsewhere...")
 
     def cmd_tree(self):
-        # Tree can be run anywhere, but gives clues about all rooms
         print("\nC:\\Level_1")
         print("├── folder_1 (Navigation Puzzle Room)")
-        print("│   └── [Hidden Link] -> Requires text file evaluation parameters")
+        print("│   └── [Hidden Link] -> Requires typing the full name of the .txt file")
         print("├── folder_2 (Enumeration Puzzle Room)")
-        print("│   └── [Hidden File] -> Reveals network landscape assets upon inspection")
+        print("│   └── [Hidden File] -> Typing the log name reveals network landscape assets")
         print("└── folder_3 (Structural Map Compartment - DEAD END)")
-        print("    └── [INTEL ALERT] -> Folder 1 can be passed by stepping into text objects.")
-        print("    └── [INTEL ALERT] -> Folder 2 unlocks once its 'log' parameters are scanned.")
+        print("    └── [INTEL ALERT] -> Folder 1 can be passed by inspecting text objects.")
+        print("    └── [INTEL ALERT] -> Folder 2 unlocks once its 'log' file parameters are entered.")
 
-    def cmd_nmap(self, args):
-        if not args:
+    def cmd_nmap(self, target):
+        if not target:
             print("[-] Usage: nmap [target_ip_address]")
             return
         
-        target = args[0]
         if not self.folder_1_solved or not self.folder_2_solved:
             print("[-] System Lockout: Missing required subnet and target IP maps from Folder 1 and 2.")
             return
@@ -178,12 +176,12 @@ class HackingPlaygroundGame:
         self.display_banner()
         while self.running:
             try:
-                # Intercept puzzle triggers mapped directly to fake executions mimicking user exploration
                 cmd_input = input(f"\n{self.get_prompt_path()} ")
-                
-                # Secret processing tricks to simulate "reading files" or solving room logic
                 normalized_input = cmd_input.strip().lower()
                 current_room = self.current_location[-1]
+
+                if normalized_input == "":
+                    continue
 
                 if current_room == "folder_1" and "cd_fundamentals.txt" in normalized_input:
                     typing_effect("\n[+] Success! You unlocked file variables. Target host isolated: 192.168.56.101")
@@ -197,9 +195,6 @@ class HackingPlaygroundGame:
                     self.folder_2_solved = True
                     if "Lab_Subnet: 192.168.56.0/24" not in self.loot_inventory:
                         self.loot_inventory.append("Lab_Subnet: 192.168.56.0/24")
-                    continue
-
-                if normalized_input == "":
                     continue
                     
                 self.run_command(cmd_input)
